@@ -3,12 +3,6 @@ layout: default
 title: Syllabus
 ---
 
-[Syllabus](index.md)  
-[Schedule](schedule.md)  
-[Assignments](assignments.md)  
-[Projects](projects.md)  
-[Resources](resources.md)
-
 # Syllabus
 
 ## Fall 2018, Michigan State University
