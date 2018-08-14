@@ -3,6 +3,8 @@ layout: default
 title: Syllabus
 ---
 
+[Syllabus][index.md]
+
 # Syllabus
 
 ## Fall 2018, Michigan State University
@@ -33,25 +35,25 @@ Phone: (517) 884-5035
 
 The class meets Tuesdays and Thursdays from 10:20 am to 11:40 am in 1230 Engineering Building. Class meetings are highly interactive and you are expected to bring a laptop to each meeting. Office hours are from 9 am to 10 am on Tuesdays and Thursdays in 1508G Engineering Building.
 
+### Communication and Slack
+
+Primary form of communication will be Slack.
+Discussion of course subject material is encouraged. There is a [Slack team](http://cmse822.slack.com) setup for the class for this very purpose. Please join this Slack team and participate in discussions. No rule of scholarly activity is more important than giving proper credit to the contributions of others. Although you are free to consult with classmates while working on assignments, you must explicitly acknowledge them by name and indicate their contributions in the final write-up.
+
 ### Text book and references
 
-The primary text for the course is "Introduction to High Performance Computing for Scientists and Engineers," by Hager \& Wellein. This text is available as an [eBook from the MSU Libraries](http://msulibraries.summon.serialssolutions.com/#!/search?bookMark=ePnHCXMwdV09b8IwEI3ULpS98wkGJiNip5d4rBBfG0ioa2THDmKgRST_X72LHYiQGOM8WZG_7px39-4jead7KycCkyXWRUoOQvEWpZXCM6cjfB6-c6RJAiFgvlUZMCnLCXTx7wgtpZTWwyjZ7Dhg2wUlVWj_gMMfYP8IqodQ_YDOeaAm6HZESyPUAN3EoRf1a8bJz3p1XG5FLDEgDPn9SgrE-mvhc4c1WjSVK2xGJjCz1uRGspiX9MpXTln0OqutlqkjjymvkSv86E49dBo67k_ysmM5Y2hliUztDlD0nTdzcedTVxLkGhQlSqmZSiXUJKCGGVB30HNXgVa9vx6MsOJiDbOAqm7Vr2_ZJL5A_gNyFn1r). Supplementary reading and reference material will be available on the course webpage under [Resources](resources.md).
+Primary text is...
+Supplementary reading and reference material will be available on the course webpage under [Resources](resources.md).
 
 ### Use of HPCC
 
 Many of the course assignments will utilize the MSU campus High Performance Computing Center (HPCC). At some point during the semester there will be an in-class tutorial on using the HPCC. All students must obtain an account on the HPCC. The best way to get an HPCC is through your research mentors. If this is not feasible, talk to the course instructor.
-
-### Use of ALCF _Mira_
-
-During the latter part of the course, we will make use of the 768,000-core, 10-petaflop _Mira_ platform at Argonne Leadership Computing Facility. We will discuss in class how to obtain access to this machine.
 
 ### Assignments
 
 The coursework consists of a combination of reading assignments and problem sets. We will discuss the problems in class, so come ready to present your solutions to the class---you will be evaluated on your in-class participation. Because we discuss the problems in class, it is important to have your assignment done on time.
 
 The homework will often consist of writing and running code. As such, all assignments will be handed out and turned in via git repositories on the course's [GitHub Classroom](site.github.repo). The git history of your assignments should demonstrate the originality of your work.
-
-Discussion of course subject material is encouraged. There is a [Slack team](http://cmse822.slack.com) setup for the class for this very purpose. Please join this Slack team and participate in discussions. No rule of scholarly activity is more important than giving proper credit to the contributions of others. Although you are free to consult with classmates while working on assignments, you must explicitly acknowledge them by name and indicate their contributions in the final write-up.
 
 ### Project
 
@@ -88,3 +90,5 @@ We will follow the attached _tentative_ outline. Updates and details are availab
 - Parallelism using accelerator architectures
 - Parallel I/O systems
 - Parallel computing for data science applications
+
+### Spartan Honor Code
