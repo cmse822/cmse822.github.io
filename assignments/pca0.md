@@ -9,4 +9,4 @@ Sign up for Slack.
 
 Sign up with GitHub Classroom. Add a Hello, World.
 
-What is your editor?
+What is your editor? - in-class
