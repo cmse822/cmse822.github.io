@@ -4,7 +4,6 @@ tagline:             'Parallel Computing, Fall 2018'
 description:         'Computational Mathematics, Science, and Engineering 822 - Parallel Computing. A graduate-level course covering the fundamentals of computing on parallel architectures.'
 url:                 http://cmse822.github.io
 github: cmse822
-  repo: https://classroom.github.com/classrooms/21065124-cmse-822-parallel-computing
 show_downloads: true
 
 # About/contact
