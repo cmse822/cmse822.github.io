@@ -6,7 +6,6 @@ url:                 https://cmse822.github.io
 github:
   repository_name:   https://github.com/cmse822
   is_project_page:   true
-show_downloads: true
 
 # About/contact
 author:
