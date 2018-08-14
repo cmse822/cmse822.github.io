@@ -24,10 +24,10 @@ At the conclusion of this course, you should be able to
 ### Instructor information
 
 Asst. Prof. Sean M. Couch  
-Office: 1508G Engineering Building and 3250 Biomedical and Physical Sciences\
-Phone: (517) 884-5035\
-[couch@pa.msu.edu](mailto:couch@pa.msu.edu)\
-[www.pa.msu.edu/~couch](http://www.pa.msu.edu/~couch)\
+Office: 1508G Engineering Building and 3250 Biomedical and Physical Sciences  
+Phone: (517) 884-5035  
+[couch@pa.msu.edu](mailto:couch@pa.msu.edu)  
+[www.pa.msu.edu/~couch](http://www.pa.msu.edu/~couch)  
 
 ### Class meetings and office hours
 
