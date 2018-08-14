@@ -3,7 +3,7 @@ layout: default
 title: Syllabus
 ---
 
-[Syllabus][index.md]
+[Syllabus](index.md)
 
 # Syllabus
 
