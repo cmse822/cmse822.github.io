@@ -3,13 +3,13 @@ layout: default
 title: Syllabus
 ---
 
-# Parallel Computing
+# Syllabus
 
-## CMSE 822, Fall 2016
+## Fall 2018, Michigan State University
 
 ### Prof. Sean Couch
 
-This is graduate-level course covers the practical aspects of parallel and extreme-scale computing in science and engineering.
+This is graduate-level course covers the practical and theoretical aspects of parallel and high-performance computing in science and engineering.
 
 ### Course Goals
 
