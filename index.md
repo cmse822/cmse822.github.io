@@ -55,6 +55,10 @@ The coursework consists of a combination of reading assignments and problem sets
 
 The homework will often consist of writing and running code. As such, all assignments will be handed out and turned in via git repositories on the course's [GitHub Classroom](site.github.repo). The git history of your assignments should demonstrate the originality of your work.
 
+### In-class work 
+
+This class is flipped! You do all the work, not me ;).
+
 ### Project
 
 In the latter part of the course, you will complete a longer project in which you will develop and test a highly-parallel code using an algorithm of your choice. You will decide on a topic in consultation with the instructor. You will be required to submit a two-page (including references) project proposal arguing the case for your project topic and citing relevant references. Finally, you will write, in a professional style, a report on your work. Project reports will be due following the final class meeting by 5 pm. Project reports will be "peer-reviewed." You will be expected to review up to three of your classmates reports, following a detailed rubric that will be made available on the course website.
@@ -62,6 +66,8 @@ In the latter part of the course, you will complete a longer project in which yo
 ### Final exam
 
 The final will be an in-class written exam covering the entire range of topics discussed in the course. The final is scheduled for Friday, December 16, 7:45 am to 9:45 am, in 222 Erickson.
+
+### CMSE Subject Exam in Parallel Computing
 
 ### Grading policy
 
@@ -91,4 +97,6 @@ We will follow the attached _tentative_ outline. Updates and details are availab
 - Parallel I/O systems
 - Parallel computing for data science applications
 
-### Spartan Honor Code
+### Spartan Code of Honor Academic Pledge
+
+As a Spartan, I will strive to uphold values of the highest ethical standard. I will practice honesty in my work, foster honesty in my peers, and take pride in knowing that honor is worth more than grades. I will carry these values beyond my time as a student at Michigan State University, continuing the endeavor to build personal integrity in all that I do.
