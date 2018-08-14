@@ -1,7 +1,7 @@
 # Setup
 title:               'CMSE 822: Parallel Computing'
 tagline:             'Parallel Computing, Fall 2018'
-description:         'Computational Mathematics, Science, and Engineering 822 - Parallel Computing. A graduate-level course covering the fundamentals of high-peformance computing on parallel architectures.'
+description:         'Michigan State University - Computational Mathematics, Science, and Engineering 822: Parallel Computing. A graduate-level course covering the fundamentals of high-peformance computing on parallel architectures.'
 url:                 https://cmse822.github.io
 github:
 
