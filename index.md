@@ -23,15 +23,15 @@ At the conclusion of this course, you should be able to
 
 ### Instructor information
 
-Asst. Prof. Sean M. Couch<br>
-Office: 3250 Biomedical and Physical Sciences Bldg.<br>
-Phone: (517) 884-5035<br>
-[couch@pa.msu.edu](mailto:couch@pa.msu.edu)<br>
-[www.pa.msu.edu/~couch](http://www.pa.msu.edu/~couch)
+Asst. Prof. Sean M. Couch\
+Office: 1508G Engineering Building and 3250 Biomedical and Physical Sciences\
+Phone: (517) 884-5035\
+[couch@pa.msu.edu](mailto:couch@pa.msu.edu)\
+[www.pa.msu.edu/~couch](http://www.pa.msu.edu/~couch)\
 
 ### Class meetings and office hours
 
-The class meets Tuesdays and Thursdays from 10:20 am to 11:40 am in 222 Erickson Hall. Class meetings are highly interactive and you are expected to bring a laptop to each meeting. Office hours are from 9 am to 10 am on Tuesdays and Thursdays in 1508G Engineering Building.
+The class meets Tuesdays and Thursdays from 10:20 am to 11:40 am in 1230 Engineering Building. Class meetings are highly interactive and you are expected to bring a laptop to each meeting. Office hours are from 9 am to 10 am on Tuesdays and Thursdays in 1508G Engineering Building.
 
 ### Text book and references
 
