@@ -4,6 +4,8 @@ title: Syllabus
 ---
 
 [Syllabus](index.md)
+[Schedule](schedule.md)
+[Assignments](assignments.md)
 
 # Syllabus
 
