@@ -2,6 +2,7 @@
 layout: default
 title: Resources
 ---
+# Resources
 
 ### Basic scientific computing:
 

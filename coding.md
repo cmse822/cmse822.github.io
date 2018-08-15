@@ -3,6 +3,8 @@ layout: default
 title: Coding Standards
 ---
 
+# Coding Standards
+
 This page contains the coding standards for this course. The purpose of these standards is to create code and documentation that is well-structured and easy to understand, which will help with the debugging, testing, and maintenance of your code. These standards are based on those for CMSE 201, but modified somewhat to reflect the needs of this class.
 
 --------------------------------------------------------------------------------

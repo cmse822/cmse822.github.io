@@ -3,6 +3,8 @@ layout: default
 title: Course Schedule
 ---
 
+# Course Schedule
+
 The class will follow this _tentative_ schedule. Updates will be posted here and on the class [Slack](http://cmse822.slack.com)!
 
 Week | Date  | Topic                    | Reading   | Due

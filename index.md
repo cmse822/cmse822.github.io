@@ -27,7 +27,7 @@ Asst. Prof. Sean M. Couch
 Office: 1508G Engineering Building and 3250 Biomedical and Physical Sciences  
 Phone: (517) 884-5035  
 [couch@pa.msu.edu](mailto:couch@pa.msu.edu)  
-[www.pa.msu.edu/~couch](http://www.pa.msu.edu/~couch) 
+[www.pa.msu.edu/~couch](http://www.pa.msu.edu/~couch)
 
 TA and Grader: Forrest Glines
 
@@ -55,7 +55,7 @@ The coursework consists of a combination of reading assignments and problem sets
 
 The homework will often consist of writing and running code. As such, all assignments will be handed out and turned in via git repositories on the course's [GitHub Classroom](site.github.repo). The git history of your assignments should demonstrate the originality of your work.
 
-### In-class work 
+### In-class work
 
 This class is flipped! You do all the work, not me ;).
 

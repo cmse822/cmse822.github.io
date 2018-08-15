@@ -3,6 +3,8 @@ layout: default
 title: Final Projects
 ---
 
+# Final Projects
+
 You will design and complete a final project for this class that involves parallel computation. Projects will be graded on how well they apply the principles that we've discussed in class to the project; it is not necessary to achieve substantial performance improvement in your project. Rather, you need to demonstrate an understanding of the performance of the code that you use in your project, and either demonstrate how to improve it or explain why it is difficult or impossible to improve the performance of that code.
 
 You will be required to submit brief project abstracts for your project that succinctly describe the problem or algorithm and what you will do as part of this project. Projects could involve parallelizing a serial code using any parallel programming model you like or analyzing and optimizing the performance of an already parallel code. Some project ideas are given below.
