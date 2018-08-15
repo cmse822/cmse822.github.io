@@ -1,0 +1,20 @@
+--- 
+--- 
+
+@import 'jekyll-theme-cayman';
+
+.page-header {
+    color: $header-heading-color;
+    text-align: center;
+    background-color: $header-bg-color;
+    background-image: url(https://cmse822.github.io/assets/images/summit.jpg);
+    @include large {
+        padding: 5rem 6rem;
+    }
+    @include medium {
+        padding: 3rem 4rem;
+    }
+    @include small {
+        padding: 2rem 1rem;
+    }
+}

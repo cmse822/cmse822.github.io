@@ -19,7 +19,7 @@ At the conclusion of this course, you should be able to
 - Develop and optimize applications using shared-memory threading parallelism
 - Develop and optimize applications using distributed-memory message passing
 - Develop and optimize hybrid parallelism applications
-- Use high-performance parallel computing architectures
+- Make effective use of high-performance parallel computing architectures
 
 ### Instructor information
 
