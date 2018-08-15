@@ -18,7 +18,7 @@ Finally, you will prepare and submit a project report about five pages in length
 5. What do you expect to do as a result of your analysis? Give a few examples. Your project should implement at least one modification to the code. Note that the specific changes will depend on what you learn during the project; this section is to show that you have some ideas that you will consider.
 6. How will you compare the results that you measure with your analysis?
 
-## Some project ideas:
+## Some project ideas
 
 ### Inspired by Numerical Linear Algebra
 

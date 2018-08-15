@@ -4,7 +4,7 @@ title: Resources
 ---
 # Resources
 
-### Basic scientific computing:
+## Basic scientific computing
 
 - [Software Carpentry](http://software-carpentry.org), particularly lessons on the [Unix Shell](http://swcarpentry.github.io/shell-novice/) and [git](http://swcarpentry.github.io/git-novice/).
 - [Atlassian git tutorial](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) is also great.
@@ -13,7 +13,7 @@ title: Resources
 - [Pyplot](http://matplotlib.org/users/pyplot_tutorial.html).
 - [Jupyter Notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/).
 
-### Basic Programming Books:
+## Basic Programming Books
 
 - [Modern Fortran Explained](http://msulibraries.summon.serialssolutions.com/#!/search?bookMark=ePnHCXMw42LgTQStzc4rAe_hSmGEHHID7BaYgUb8gaUllA9sOhuagNrWkoGO5mZ65sZ6bkamCrq6Cr4mFgqgagm0n44XVqSamBgYm3IySEBuCFNwA7ZNgWW5QmpFQQ6wBw2qN1TdXEOcPXRzixGriuKhQyDxSaB2uzGwMWnEzaACUQcreOPBk5LQlZDxwNRvAqrxuRmUIcqA9UdRYm5KZjr4Co8CyAkQ8cbAitLcBKEKMsMJl0bxsBGxTgMAO1taeA) online from the MSU library.
 - [Practical C Programming](http://msulibraries.summon.serialssolutions.com/#!/search?bookMark=ePnHCXMw42LgTQStzc4rAe_hAm1sBrbZLY0NjYF1ITOQYwqayDMGT65JBjqam-mZG-s5G5oq6Ooq-FuYKIAWPqQmsTFwAFO-kaGxqRkHbMQEdPKMkakFJ4M45CgfoB8UnBWgy5hygQU9N4Oqm2uIs4dubjFiZVE8dBgkPsncwNLC0sAMNICiC1GH2NsQX5qXmQe6ADk-N6UgHjIOYALaZWwKHnBRhqiHFdbx4IlM6OrJeGCdDDr0nJtBCaIKeftSfAHkzAiEIqhRkDlRuDT45CloKIEsJM4jAAxuaMo) online from the MSU library.
