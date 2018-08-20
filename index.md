@@ -23,13 +23,18 @@ At the conclusion of this course, you should be able to
 
 ### Instructor information
 
-Asst. Prof. Sean M. Couch  
+Dr. Sean M. Couch  
+Assistant Professor  
 Office: 1508G Engineering Building and 3250 Biomedical and Physical Sciences  
-Phone: (517) 884-5035  
+Office phone: (517) 884-5035  
+Office hours: Tuesdays and Thursdays, 9 am to 10 am in 1508G EGR.  
 [couch@pa.msu.edu](mailto:couch@pa.msu.edu)  
 [www.pa.msu.edu/~couch](http://www.pa.msu.edu/~couch)
 
-TA and Grader: Forrest Glines
+Teaching Assistant/Grader:  
+Forrest Glines  
+Dual-PhD student in Astrophysics and CMSE  
+[glinesfo@msu.edu](mailto:glinesfo@msu.edu)
 
 ### Class meetings and office hours
 
@@ -37,13 +42,17 @@ The class meets Tuesdays and Thursdays from 10:20 am to 11:40 am in 1230 Enginee
 
 ### Communication and Slack
 
-Primary form of communication will be Slack.
-Discussion of course subject material is encouraged. There is a [Slack team](http://cmse822.slack.com) setup for the class for this very purpose. Please join this Slack team and participate in discussions. No rule of scholarly activity is more important than giving proper credit to the contributions of others. Although you are free to consult with classmates while working on assignments, you must explicitly acknowledge them by name and indicate their contributions in the final write-up.
+The primary vehicle for communication regarding this course will be [Slack](http://slack.com).
+Specifically, there is a `cmse822-fs18` channel in the [cmse-courses](http://cmse-courses.slack.com) Slack workspace.
+You may use your `@msu.edu` email address to join this Slack workspace.
+Please join this Slack workspace and the `cmse822-fs18` channel and participate in discussions.
+Discussion of course subject material is encouraged.
+You may also send direct messages via Slack to the instructors or any other member of the workspace.
 
 ### Text book and references
 
 Primary text is...
-Supplementary reading and reference material will be available on the course webpage under [Resources](resources.md).
+Supplementary reading and reference material is available on the course webpage under [Resources](resources.md).
 
 ### Use of HPCC
 
@@ -54,6 +63,10 @@ Many of the course assignments will utilize the MSU campus High Performance Comp
 The coursework consists of a combination of reading assignments and problem sets. We will discuss the problems in class, so come ready to present your solutions to the class---you will be evaluated on your in-class participation. Because we discuss the problems in class, it is important to have your assignment done on time.
 
 The homework will often consist of writing and running code. As such, all assignments will be handed out and turned in via git repositories on the course's [GitHub Classroom](site.github.repo). The git history of your assignments should demonstrate the originality of your work.
+
+No rule of scholarly activity is more important than giving proper credit to the contributions of others. Although you are free to consult with classmates while working on assignments, you must explicitly acknowledge them by name and indicate their contributions in the final write-up.
+
+Code duplication....
 
 ### In-class work
 
@@ -75,12 +88,25 @@ The weights for the course grade are as follows.
 
 Category                                 | %
 ---------------------------------------- | ---
-Homework (problems, reading assignments) | 40%
+Pre-class assignments                    | 20%
+In-class assignments                     | 20%
 In-class participation                   | 10%
-Project (incl. proposal and report)      | 30%
+Project (code, poster, and report)       | 30%
 Final                                    | 20%
 
-For the reading problem sets, the grading will be on a three-point scale: -, ✔, +, meaning, respectively, "needs improvement", "satisfactory", and "outstanding." For the longer homework problem sets I will grade the write-up in detail and assign a numerical grade.
+The final course grade will be assigned based on the following scale.
+
+Grade        | Overall %
+------------ | ----------
+4.0          | >=90
+3.5          | >=83
+3.0          | >=76
+2.5          | >=68
+2.0          | >=62
+1.5          | >=55
+1.0          | >=45
+
+Your final grade will be no lower than that indicated on the above scale, though it _may_ be higher, depending on overall class performance.
 
 ### Outline of topics
 

@@ -8,3 +8,5 @@ title: Pre-class 0
 Sign up for Slack, send Couch your GitHub ID.
 
 Sign up with GitHub Classroom. Add a Hello, World.
+
+Log in to HPCC.
