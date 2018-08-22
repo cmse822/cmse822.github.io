@@ -13,6 +13,7 @@ title: Resources
 - The [VS Code editor](https://code.visualstudio.com)  
 - [Pyplot](http://matplotlib.org/users/pyplot_tutorial.html).
 - [Jupyter Notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/).
+- [GitHub Markdown tutorial](https://guides.github.com/features/mastering-markdown/)
 
 ## Basic Programming Books
 

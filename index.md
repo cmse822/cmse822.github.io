@@ -51,18 +51,19 @@ You may also send direct messages via Slack to the instructors or any other memb
 
 ### Text book and references
 
-Primary text is...
+The two primary textbooks for this course are [High Performance Scientific Computing](https://bitbucket.org/VictorEijkhout/hpc-book-and-course) and [Parallel Programming in Science and Engineering](https://bitbucket.org/VictorEijkhout/parallel-computing-book/src), both by Victor Eijkhout.
+Both of these texts are open-source and freely-available from the author.
 Supplementary reading and reference material is available on the course webpage under [Resources](resources.md).
 
 ### Use of HPCC
 
-Many of the course assignments will utilize the MSU campus High Performance Computing Center (HPCC). At some point during the semester there will be an in-class tutorial on using the HPCC. All students must obtain an account on the HPCC. The best way to get an HPCC is through your research mentors. If this is not feasible, talk to the course instructor.
+Many of the course assignments will utilize the MSU campus High Performance Computing Center (HPCC). All students must obtain an account on the HPCC. The best way to get an HPCC is through your research mentors. If this is not feasible, talk to the course instructor.
 
 ### Assignments
 
-The coursework consists of a combination of reading assignments and problem sets. We will discuss the problems in class, so come ready to present your solutions to the class---you will be evaluated on your in-class participation. Because we discuss the problems in class, it is important to have your assignment done on time.
+The coursework consists of a combination of pre-class assignments and in-class homework. The pre-class assignments will serve as the basis for in-class discussion and so it is important that you complete them---you will be evaluated on your in-class participation.
 
-The homework will often consist of writing and running code. As such, all assignments will be handed out and turned in via git repositories on the course's [GitHub Classroom](site.github.repo). The git history of your assignments should demonstrate the originality of your work.
+The assignments will often consist of writing and running code. As such, all assignments will be handed out and turned in via Git repositories on the course's [GitHub Classroom](site.github.repo). The Git history of your assignments should demonstrate the originality of your work.
 
 No rule of scholarly activity is more important than giving proper credit to the contributions of others. Although you are free to consult with classmates while working on assignments, you must explicitly acknowledge them by name and indicate their contributions in the final write-up.
 
@@ -75,6 +76,8 @@ This class is flipped! You do all the work, not me ;).
 ### Project
 
 In the latter part of the course, you will complete a longer project in which you will develop and test a highly-parallel code using an algorithm of your choice. You will decide on a topic in consultation with the instructor. You will be required to submit a two-page (including references) project proposal arguing the case for your project topic and citing relevant references. Finally, you will write, in a professional style, a report on your work. Project reports will be due following the final class meeting by 5 pm. Project reports will be "peer-reviewed." You will be expected to review up to three of your classmates reports, following a detailed rubric that will be made available on the course website.
+
+No plagerism!
 
 ### Final exam
 
