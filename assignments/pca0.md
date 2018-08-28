@@ -1,6 +1,6 @@
 # Pre-class Assignment 0, due 8/30
 
-This assignment is designed to prepare you for this course and introduce you to the material you will be expected to know _on day 1_.
+This assignment is meant to get you ready to engage in this class _on day 1_.
 
 Look at tutorials.
 
