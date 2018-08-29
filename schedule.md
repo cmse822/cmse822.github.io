@@ -27,7 +27,7 @@ Date  | Topic                      | Pre-class | In-class | Notes
 10/23 | Multi-threading, co-processors, etc. | | |
 10/25 | OpenMP, regions, loops     | | |
 10/30 | Worksharing, thread data, reductions | | |
-11/1  | | | |
+11/1  | | | | Project topics due
 11/6  | Synchronization, tasks     | | |
 11/8  | Affinity, memory models    | | |
 11/13 | SIMD, OpenMP review        | | |
@@ -37,5 +37,5 @@ Date  | Topic                      | Pre-class | In-class | Notes
 11/27 | OpenACC/GPUs               | | |
 11/29 | OpenACC/GPUs               | | |
 12/4  | Advanced architectures     | | |
-12/6  | Poster session             | | |
+12/6  | Poster session             | | | Project reports due
 12/13 | _Final exam_ (10 am - 12 pm, 1230 EGR) | | |
