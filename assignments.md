@@ -7,4 +7,8 @@ title: Assignments
 
 ## Pre-class
 
-- [PCA 0](assignments/pca0.md), due 8/30
+- [PCA 1](assignments/pca1.md), due 9/4
+
+## In-class
+
+- [ICA 1](assignments/ica1.md), 8/30

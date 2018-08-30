@@ -69,9 +69,9 @@ Unless explicitly stated, you should assume that all code required in the assign
 I.e., do not simply use off-the-shelf code.
 The point of the assignments is to give _you_ practice in writing scientific software.
 
-### In-class work
+### In-class work and attendance
 
-This class is flipped! You do all the work, not me ;).
+Class periods will frequently be used for formal discussion of the course material and for in-class homeworks. It is, therefore, very important that you show up! Frequent absences will affect your class participation grade.
 
 ### Project
 
@@ -118,18 +118,7 @@ Your final grade will be no lower than that indicated on the above scale, though
 
 ### Outline of topics
 
-We will follow the attached _tentative_ outline. Updates and details are available on the online [schedule](schedule.md).
-
-- Modern processor architecture as it pertains to code performance
-- Performance benchmarking and modeling of serial code
-- Serial and parallel data access
-- Design of parallel computing architectures including extreme-scale platforms
-- Using high performance computing platforms effectively
-- Parallelizing serial code for shared-memory, distributing-memory, and heterogenous architectures
-- Benchmarking and optimizing parallel code
-- Parallelism using accelerator architectures
-- Parallel I/O systems
-- Parallel computing for data science applications
+The _tentative_ course schedule is available [here](schedule.md). Updates and details will also be made on that page and communicated via the course Slack channel.
 
 ### Spartan Code of Honor Academic Pledge
 
