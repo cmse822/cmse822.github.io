@@ -9,8 +9,8 @@ The class will follow this _tentative_ schedule. Updates will be posted here and
 
 Date  | Topic                      | Pre-class | In-class | Notes
 ------|----------------------------|-----------|----------|------
-8/30  | Introduction to the course | [PCA0](assignments/pca0.md) | |
-9/4   | Single-processor computing | | |
+8/30  | Introduction to the course | | [ICA1](assignments/ica1.md) |
+9/4   | Single-processor computing | [PCA1](assignments/pca1.md) | |
 9/6   | Single-processor computing | | |
 9/11  | Parallel computing theory  | | |
 9/13  | Parallel programming       | | |
