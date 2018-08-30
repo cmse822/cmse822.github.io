@@ -23,4 +23,4 @@
 ## Join the GitHub Classroom
 
 1. If you don't already, you should register for a (free!) account on github.com.
-2. Click on this link to join the Classroom and start the first assignment:
+2. Click on this link to join the Classroom and start the first assignment: <https://classroom.github.com/a/T3LOmkV->
