@@ -12,3 +12,4 @@ title: Assignments
 ## In-class
 
 - [ICA 1](assignments/ica1.md), 8/30
+- [ICA 2](assignments/ica2.md), 9/4
