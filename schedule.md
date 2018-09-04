@@ -9,9 +9,9 @@ The class will follow this _tentative_ schedule. Updates will be posted here and
 
 Date  | Topic                      | Pre-class | In-class | Notes
 ------|----------------------------|-----------|----------|------
-8/30  | Introduction to the course | | [ICA1](assignments/ica1.md) |
-9/4   | Single-processor computing | [PCA1](assignments/pca1.md) | |
-9/6   | Single-processor computing | | |
+8/30  | Introduction to the course |                             | [ICA1](assignments/ica1.md) |
+9/4   | Single-processor computing | [PCA1](assignments/pca1.md) | [ICA2](assignments/ica2.md) |
+9/6   | Single-processor computing | [PCA2](assignments/pca2.md) | |
 9/11  | Parallel computing theory  | | |
 9/13  | Parallel programming       | | |
 9/18  | Intro to MPI, functional parallelism | | |

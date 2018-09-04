@@ -8,6 +8,7 @@ title: Assignments
 ## Pre-class
 
 - [PCA 1](assignments/pca1.md), due 9/4
+- [PCA 2](assignments/pca2.md), due 9/6
 
 ## In-class
 
