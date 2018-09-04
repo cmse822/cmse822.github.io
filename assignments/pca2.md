@@ -1,4 +1,4 @@
-# Pre-class Assignment 2, due 9/6
+# Pre-class Assignment 2, due 9/11
 
 ## Reading
 
