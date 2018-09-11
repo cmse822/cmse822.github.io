@@ -12,7 +12,7 @@ Date  | Topic                      | Pre-class | In-class | Notes
 8/30  | Introduction to the course |                             | [ICA1](assignments/ica1.md) |
 9/4   | Single-processor computing | [PCA1](assignments/pca1.md) | [ICA2](assignments/ica2.md) |
 9/6   | Single-processor computing | | |
-9/11  | Parallel computing theory  | [PCA2](assignments/pca2.md) | |
+9/11  | Parallel computing theory  | [PCA2](assignments/pca2.md) | [ICA3](assignments/ica3.md) |
 9/13  | Parallel programming       | [PCA3](assignments/pca3.md)| |
 9/18  | Intro to MPI, functional parallelism | | |
 9/20  | Collective communication   | | |
