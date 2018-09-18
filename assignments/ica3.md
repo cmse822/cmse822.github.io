@@ -8,21 +8,21 @@ As a group, discuss the assigned exercises and decide which exercises you are mo
 
 As a group, compute the arithmetic intensities of the following kernels assuming 8 bytes per float.
 
-```C 
+```C
   Y[j] += Y[j] + A[j][i] * B[i]
 ```
 
-```C 
-  s += A[i] * A[i] 
-``` 
+```C
+  s += A[i] * A[i]
+```
 
-```C 
-  s += A[i] * B[i] 
-``` 
+```C
+  s += A[i] * B[i]
+```
 
-```C 
-  Y[i] = A[i] + C*B[i] 
-``` 
+```C
+  Y[i] = A[i] + C*B[i]
+```
 
 Now, within your group, pick a partner (or two). One partner will the be the "driver" and do all the actual typing of the code. The other partner (or two) will be the "navigator," guiding the overall direction of the code toward the ultimate goal. Feel free to switch roles as frequently as needed. Feel free to discuss the programming problem with your other group mates, too. At the conclusion, you may submit identical code and write-ups as your partner, specifying who your partners were.
 
