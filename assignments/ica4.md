@@ -26,10 +26,10 @@ $ module load gcc/7.3.0-2.30 openmpi hdf5 python git
 4. When using the HPCC for development and exercises in this class _please do NOT just use the head node, `dev-intel18`_. We will swamp the node and no one will get anything done. Instead, request an interactive job using the SLURM scheduler. An easy way to do this is to set up an alias command like so:
 
 ```
-$ alias devjob='salloc -N 1 -c 4 --time 1:30:00'
+$ alias devjob='salloc -n 4 --time 1:30:00'
 ```
 
-5. Run `devjob`, then to request 4 cores of 1 node for 90 minutes. This should be sufficient for most of the stuff we do in class. The above `module` and `alias` commands can be added to your `.bashrc` so that they are automatically executed when you log in.
+5. Run `devjob`, then to request 4 tasks for 90 minutes. This should be sufficient for most of the stuff we do in class. The above `module` and `alias` commands can be added to your `.bashrc` so that they are automatically executed when you log in.
 
 ## MPI Basics
 
