@@ -13,6 +13,7 @@ $ ssh <netid>@hpcc.msu.edu
 2. Then log in to the Intel-18 cluster from the gateway:
 
 ```
+$ module load powertools
 $ intel18
 ```
 
