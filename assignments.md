@@ -20,3 +20,4 @@ title: Assignments
 - [ICA 2](assignments/ica2.md), 9/4
 - [ICA 3](assignments/ica3.md), 9/11
 - [ICA 4](assignments/ica4.md), 9/20
+- [ICA 5](assignments/ica5.md), 9/25
