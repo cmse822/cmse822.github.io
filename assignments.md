@@ -13,6 +13,7 @@ title: Assignments
 - [PCA 4](assignments/pca4.md), due 9/18
 - [PCA 5](assignments/pca5.md), due 9/20
 - [PCA 6](assignments/pca6.md), due 9/25
+- [PCA 7](assignments/pca7.md), due 9/27
 
 ## In-class
 
