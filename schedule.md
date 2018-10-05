@@ -19,7 +19,7 @@ Date  | Topic                      | Pre-class | In-class | Notes
 9/25  | Collective communication | [PCA6](assignments/pca6.md) | [ICA5](assignments/ica5.md) |
 9/27  | Point-to-point communication | [PCA7](assignments/pca7.md) | |
 10/2  | Point-to-point communication | [PCA8](assignments/pca8.md) | [ICA6](assignments/ica6.md) |
-10/4  | Data types, communicators, process management    | [PCA9](assignments/pca9.md) | |
+10/4  | Data types, communicators, process management    | [PCA9](assignments/pca9.md) | [ICA7](assignments/ica7.md) |
 10/9  | One-sided communication         | | |
 10/11 | Network Topologies     | | |
 10/16 | I/O, shared memory MPI   | | |
