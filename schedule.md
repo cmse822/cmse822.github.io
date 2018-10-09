@@ -19,23 +19,23 @@ Date  | Topic                      | Pre-class | In-class | Notes
 9/25  | Collective communication | [PCA6](assignments/pca6.md) | [ICA5](assignments/ica5.md) |
 9/27  | Point-to-point communication | [PCA7](assignments/pca7.md) | |
 10/2  | Point-to-point communication | [PCA8](assignments/pca8.md) | [ICA6](assignments/ica6.md) |
-10/4  | Data types, communicators, process management    | [PCA9](assignments/pca9.md) | [ICA7](assignments/ica7.md) |
-10/9  | One-sided communication         | | |
-10/11 | Network Topologies     | | |
-10/16 | I/O, shared memory MPI   | | |
-10/18 | MPI leftovers and review                       | | |
-10/23 | HDF5 | | |
-10/25 | Multi-threading, co-processors, etc.     | | |
-10/30 | OpenMP, regions, loops | | |
-11/1  | Worksharing, thread data, reductions| | | Project topics due
-11/6  | Synchronization, tasks     | | |
-11/8  | Affinity, memory models    | | |
-11/13 | SIMD, OpenMP review        | | |
-11/15 | Hybrid parallelism         | | |
-11/20 | Hybrid parallelism         | | |
+10/4  | Data types, communicators, proc. mgmt.    | [PCA9](assignments/pca9.md) | [ICA7](assignments/ica7.md) |
+10/9  | More on types and communicators | | [ICA8](assignments/ica8.md) |
+10/11 | One-sided communication         | [PCA10](assignments/pca10.md) | |
+10/16 | GPUs and CUDA | | |
+10/18 | GPUs and CUDA | | |
+10/23 | Network Topologies     | | |
+10/25 | I/O, shared memory MPI   | | |
+10/30 | HDF5 | | |
+11/1  | Multi-threading, co-processors, etc.     | | | Project topics/proposals due
+11/6  | OpenMP, regions, loops | | |
+11/8  | Worksharing, thread data, reductions | | |
+11/13 | Synchronization, tasks     | | |
+11/15 | Affinity, memory models    | | |
+11/20 | SIMD, OpenMP review        | | |
 11/22 | _No class!_                | | |
-11/27 | OpenACC/GPUs               | | |
-11/29 | OpenACC/GPUs               | | |
+11/25 | Hybrid parallelism         | | |
+11/27 | Hybrid parallelism         | | |
 12/4  | Advanced architectures     | | |
 12/6  | Poster session             | | | Project reports due
 12/13 | _Final exam_ (10 am - 12 pm, 1230 EGR) | | |
