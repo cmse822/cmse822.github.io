@@ -21,8 +21,8 @@ Date  | Topic                      | Pre-class | In-class | Notes
 10/2  | Point-to-point communication | [PCA8](assignments/pca8.md) | [ICA6](assignments/ica6.md) |
 10/4  | Data types, communicators, proc. mgmt.    | [PCA9](assignments/pca9.md) | [ICA7](assignments/ica7.md) |
 10/9  | More on types and communicators | | [ICA8](assignments/ica8.md) |
-10/11 | One-sided communication         | [PCA10](assignments/pca10.md) | |
-10/16 | GPUs and CUDA | | |
+10/11 | One-sided communication         | [PCA10](assignments/pca10.md) | [ICA9](assignments/ica9.md) |
+10/16 | GPUs and CUDA | [PCA11](assignments/pca11.md) | [ICA10](assignments/ica10.md) |
 10/18 | GPUs and CUDA | | |
 10/23 | Network Topologies     | | |
 10/25 | I/O, shared memory MPI   | | |
