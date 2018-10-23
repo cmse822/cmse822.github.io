@@ -24,10 +24,10 @@ Date  | Topic                      | Pre-class | In-class | Notes
 10/11 | One-sided communication         | [PCA10](assignments/pca10.md) | [ICA9](assignments/ica9.md) |
 10/16 | GPUs and CUDA | [PCA11](assignments/pca11.md) | [ICA10](assignments/ica10.md) |
 10/18 | GPUs and CUDA | | |
-10/23 | Network Topologies     | | |
-10/25 | I/O, shared memory MPI   | | |
+10/23 | Network Topologies     | [PCA12](assignments/pca12.md) | |
+10/25 | I/O, shared memory MPI   | | | Project topics/proposals due
 10/30 | HDF5 | | |
-11/1  | Multi-threading, co-processors, etc.     | | | Project topics/proposals due
+11/1  | Multi-threading, co-processors, etc.     | | |
 11/6  | OpenMP, regions, loops | | |
 11/8  | Worksharing, thread data, reductions | | |
 11/13 | Synchronization, tasks     | | |
