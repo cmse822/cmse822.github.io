@@ -11,7 +11,7 @@ Read sections 2.7 of [High-Performance Scientific Computing](https://cmse-course
 
 ## Questions
 
-1. Define _bisection width_. 
+1. Define _bisection width_.
 2. Define the _diameter_ of a network.
 3. Do a little internet searching and determine what type of network MSU's HPCC utilizes.
 
