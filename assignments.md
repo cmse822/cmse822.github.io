@@ -33,3 +33,5 @@ title: Assignments
 - [ICA 8](assignments/ica8.md), 10/9
 - [ICA 9](assignments/ica9.md), 10/11
 - [ICA 10](assignments/ica10.md), 10/16
+- [ICA 11](assignments/ica11.md), 10/30
+- [ICA 12](assignments/ica12.md), 11/1
