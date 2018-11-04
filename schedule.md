@@ -28,8 +28,8 @@ Date  | Topic                      | Pre-class | In-class | Notes
 10/25 | I/O, shared memory MPI   | [PCA13](assignments/pca13.md) | | Project topics/proposals due
 10/30 | HDF5 | | [ICA11](assignments/ica11.md) |
 11/1  | Multi-threading, co-processors, etc.     | | [ICA12](assignments/ica12.md) |
-11/6  | OpenMP, regions, loops | | |
-11/8  | Worksharing, thread data, reductions | | |
+11/6  | OpenMP, regions, loops | [PCA14](assignments/pca14.md) | |
+11/8  | Worksharing, thread data, reductions | [PCA15](assignments/pca15.md) | |
 11/13 | Synchronization, tasks     | | |
 11/15 | Affinity, memory models    | | |
 11/20 | SIMD, OpenMP review        | | |
