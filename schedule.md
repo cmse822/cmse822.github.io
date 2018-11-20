@@ -35,7 +35,8 @@ Date  | Topic                      | Pre-class | In-class | Notes
 11/20 | SIMD, OpenMP review        | | |
 11/22 | _No class!_                | | |
 11/25 | Hybrid parallelism         | | |
-11/27 | Hybrid parallelism         | | |
+11/27 | Hybrid parallelism         | | | Peer evaluation of poster drafts!
+12/3  |                            | | | Posters due to DECS!
 12/4  | Advanced architectures     | | |
-12/6  | Poster session             | | | Project reports due
+12/6  | Poster session (in 1502 EGR!) | | | Project reports due
 12/13 | _Final exam_ (10 am - 12 pm, 1230 EGR) | | |
