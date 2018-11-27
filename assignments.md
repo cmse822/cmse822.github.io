@@ -24,6 +24,8 @@ title: Assignments
 - [PCA 15](assignments/pca15.md), due 11/8
 - [PCA 16](assignments/pca16.md), due 11/13
 - [PCA 17](assignments/pca17.md), due 11/15
+- [PCA 18](assignments/pca18.md)
+- [PCA 19](assignments/pca19.md)
 
 ## In-class
 
@@ -40,3 +42,5 @@ title: Assignments
 - [ICA 11](assignments/ica11.md), 10/30
 - [ICA 12](assignments/ica12.md), 11/1
 - [ICA 13](assignments/ica13.md), 11/6
+- [ICA 14](assignments/ica14.md)
+- [ICA 15](assignments/ica15.md)
