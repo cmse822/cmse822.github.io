@@ -34,8 +34,8 @@ Date  | Topic                      | Pre-class | In-class | Notes
 11/15 | Affinity, memory models    | | |
 11/20 | SIMD, OpenMP review        | | |
 11/22 | _No class!_                | | |
-11/25 | Hybrid parallelism         | | |
-11/27 | Hybrid parallelism         | | | Peer evaluation of poster drafts!
+11/27 | Hybrid parallelism         | | |
+11/29 | Hybrid parallelism         | | | Peer evaluation of poster drafts!
 12/3  |                            | | | Posters due to DECS!
 12/4  | Advanced architectures     | | |
 12/6  | Poster session (in 1502 EGR!) | | | Project reports due
