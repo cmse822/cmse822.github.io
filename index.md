@@ -33,16 +33,19 @@ Jared Carlson
 
 ### Class meetings and office hours
 
-The class meets Tuesdays and Thursdays from 10:20 am to 11:40 am in 1230 Engineering Building. Class meetings are highly interactive and you are expected to bring a laptop to each meeting. Office hours are from 9 am to 10 am on Tuesdays and Thursdays in 1508G Engineering Building.
+This is a "hybrid" course, meaning mostly online interaction. In-person interaction amongst small groups with appropriate social distancing will occur on an as-needed basis.
+The class meets virtually Tuesdays and Thursdays from 10:20 am to 11:40 am Eastern via Zoom, at [this link](). The passcode for the Zoom will be sent to you via email. Class meetings are meant to be highly interactive and you are expected to attend if possible.
+Zoom sessions will also be recorded and made available for review.
 
 ### Communication and Slack
 
-The primary vehicle for communication regarding this course will be [Slack](http://slack.com).
-Specifically, there is a `cmse822-fs18` channel in the [cmse-courses](http://cmse-courses.slack.com) Slack workspace.
+The primary means of communication for this course will be [Slack](http://slack.com).
+There is a workspace specifically for this course at [cmse-822.slack.com](http://cmse-822.slack.com).
 You may use your `@msu.edu` email address to join this Slack workspace.
-Please join this Slack workspace and the `cmse822-fs18` channel and participate in discussions.
+Please join this Slack workspace and participate in discussions.
 Discussion of course subject material is encouraged.
 You may also send direct messages via Slack to the instructors or any other member of the workspace.
+For group work, there will be dedicated channels for each group.
 
 ### Text book and references
 
@@ -69,17 +72,17 @@ Unless explicitly stated, you should assume that all code required in the assign
 I.e., do not simply use off-the-shelf code.
 The point of the assignments is to give _you_ practice in writing scientific software.
 
-### In-class work and attendance
+### In-class work, attendance, and extra credit
 
-Class periods will frequently be used for formal discussion of the course material and for in-class homeworks. It is, therefore, very important that you show up! Frequent absences will affect your class participation grade.
+Class periods will frequently be used for formal discussion of the course material and for in-class homeworks. It is, therefore, very important that you show up, if you can. If you are unable to participate in virtual class meetings, they will be recorded for you to review later. There will often be in-class quizzes to check your understanding of the assigned material. These quizzes will count for extra credit toward your final grade. In order to receive the full amount of extra credit, you will only need to respond correctly to 80% of the questions. There will be no make-up extra credit of any kind.
 
 ### Project
 
 In the latter part of the course, you will complete a [longer project](projects.md) in which you will develop and test a highly-parallel code.
 You will choose a project from the list that will be available on the course [projects page](projects.md).
-At the culmination of the project, you will prepare and present a poster on your work during the final class meeting of the semester.
-Your posters will be peer-reviewed by your classmates.
-You will also write, in a professional style, a report on your work.
+At the culmination of the project, you will prepare a recorded talk about your work.
+You will also write, in a professional style, detailed code documentation describing your work.
+Your project will be peer-reviewed by your classmates.
 
 ### Final exam
 
@@ -88,7 +91,7 @@ The final will be an in-class written exam covering the entire range of topics d
 ### CMSE Subject Exam in Parallel Computing
 
 This course is one of the subject exam courses for the PhD in CMSE.
-For those of you requiring the subject exam, your score will be determined by _both_ your score on the written final _and_ on the final project.
+For those of you requiring it, your subject exam score will be your final course grade.
 
 ### Grading policy
 
@@ -97,10 +100,9 @@ The weights for the course grade are as follows.
 Category                                 | %
 ---------------------------------------- | ---
 Pre-class assignments                    | 20%
-In-class assignments                     | 20%
-In-class participation                   | 10%
-Project (code, poster, and report)       | 30%
-Final                                    | 20%
+In-class assignments                     | 40%
+In-class quizzes (extra credit)          | (+5%)
+Project (code, talk, and docs)           | 40%
 
 The final course grade will be assigned based on the following scale.
 
@@ -123,3 +125,5 @@ The _tentative_ course schedule is available [here](schedule.md). Updates and de
 ### Spartan Code of Honor Academic Pledge
 
 As a Spartan, I will strive to uphold values of the highest ethical standard. I will practice honesty in my work, foster honesty in my peers, and take pride in knowing that honor is worth more than grades. I will carry these values beyond my time as a student at Michigan State University, continuing the endeavor to build personal integrity in all that I do.
+
+In particular, plagiarism of any kind will result in the complete loss of credit for the assignment, including on the final project, and an associated report to the dean of your college. If you are not completely clear on what constitutes plagiarism, consult the [materials provided by the Graduate School](https://grad.msu.edu/plagiarism).
