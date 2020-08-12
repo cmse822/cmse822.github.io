@@ -1,35 +1,35 @@
 # Syllabus
 
-## Fall 2018, Michigan State University
+## Fall 2020, Michigan State University
 
 ### Prof. Sean Couch
 
-This is graduate-level course covers the practical and theoretical aspects of parallel and high-performance computing in science and engineering.
+This graduate-level course covers the practical and theoretical aspects of parallel and high-performance computing in science and engineering.
 
 ### Course Goals
 
 At the conclusion of this course, you should be able to
 
 - Benchmark and profile the performance of serial and parallel applications
-- Develop and optimize applications using shared-memory threading parallelism
-- Develop and optimize applications using distributed-memory message passing
-- Develop and optimize hybrid parallelism applications
+- Develop and optimize applications using:
+  - shared-memory threading parallelism
+  - distributed-memory message passing
+  - hybrid parallelism 
+  - and GPU hardware
 - Make effective use of high-performance parallel computing architectures
 
 ### Instructor information
 
 Dr. Sean M. Couch  
 Assistant Professor  
-Office: 1508G Engineering Building and 3250 Biomedical and Physical Sciences  
 Office phone: (517) 884-5035  
 Office hours: Tuesdays and Thursdays, 9 am to 10 am in 1508G EGR.  
-[couch@pa.msu.edu](mailto:couch@pa.msu.edu)  
+[scouch@msu.edu](mailto:scouch@msu.edu)  
 [www.pa.msu.edu/~couch](http://www.pa.msu.edu/~couch)
 
 Teaching Assistant/Grader:  
-Forrest Glines  
-Dual-PhD student in Astrophysics and CMSE  
-[glinesfo@msu.edu](mailto:glinesfo@msu.edu)
+Jared Carlson  
+[carls502@msu.edu](mailto:carls502@msu.edu)
 
 ### Class meetings and office hours
 
