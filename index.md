@@ -1,5 +1,7 @@
 # Syllabus
 
+**UNDER CONSTRUCTION/SUBJECT TO CHANGE**
+
 ## Fall 2020, Michigan State University
 
 ### Prof. Sean Couch
@@ -22,14 +24,14 @@ At the conclusion of this course, you should be able to
 
 Dr. Sean M. Couch  
 Assistant Professor  
-Office phone: (517) 884-5035  
-Office hours: Tuesdays and Thursdays, 9 am to 10 am in 1508G EGR.  
+Office hours: by appointment  
 [scouch@msu.edu](mailto:scouch@msu.edu)  
 [www.pa.msu.edu/~couch](http://www.pa.msu.edu/~couch)
 
 Teaching Assistant/Grader:  
 Jared Carlson  
-[carls502@msu.edu](mailto:carls502@msu.edu)
+Office hours:   
+[cmse822ta@gmail.com](mailto:cmse822ta@gmail.com)
 
 ### Class meetings and office hours
 
