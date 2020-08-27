@@ -1,6 +1,7 @@
 # Final Projects
 
 Details about the course project will be posted later in the semester. 
+
 <!-- 
 ## Project topics
 

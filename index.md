@@ -1,6 +1,4 @@
-# Syllabus
-
-**UNDER CONSTRUCTION/SUBJECT TO CHANGE**
+# Syllabus - CMSE 822
 
 ## Fall 2020, Michigan State University
 
@@ -109,15 +107,15 @@ For those of you requiring it, your subject exam score will be your final course
 The weights for the course grade are as follows.
 
 Category      |                           | %
---------------|-------------------------- | ---
+--------------|---------------------------|----
 Pre-class assignments                   | | 10%
 Homework assignments                    | | 50%
 In-class quizzes (extra credit)         | | (+5%)
 Project, distributed as follows:        | | 40%
-|| code                                   | 15%
-|| documentation                          | 15%
-|| talk video                             | 5%
-|| peer reviews                           | 5%
+ | code                                   | 15%
+ | documentation                          | 15%
+ | talk video                             | 5%
+ | peer reviews                           | 5%
 
 The final course grade will be assigned based on the following scale.
 
@@ -150,6 +148,24 @@ As a Spartan, I will strive to uphold values of the highest ethical standard. I 
 
 In particular, plagiarism of any kind will result in the complete loss of credit for the assignment, including on the final project, and an associated report to the dean of your college. If you are not completely clear on what constitutes plagiarism, consult the [materials provided by the Graduate School](https://grad.msu.edu/plagiarism).
 
+### Course Recordings, Intellectual Property and Social Media Use 
+
+**Course Recordings:** Meetings of this course may be recorded. The recordings may be available to students registered for this class. This is intended to supplement the classroom experience. Students are expected to follow appropriate University policies and maintain the security of passwords used to access recorded lectures. Recordings may not be reproduced, shared with those not in the class, or uploaded to other online environments. Doing so may result in disciplinary action. If the instructor or another University office plan other uses for the recordings beyond this class, students identifiable in the recordings will be notified to request consent prior to such use. 
+
+**Related Policies:** 
+Institutional Data Policy: 
+https://tech.msu.edu/about/guidelines-policies/msu-institutional-data-policy/ 
+Student Privacy Guidelines and Notification of Rights under FERPA 
+https://reg.msu.edu/ROInfo/Notices/PrivacyGuidelines.aspx
+
+As members of a learning community, students are expected to respect the intellectual property of course instructors. All course materials presented to students are the copyrighted property of the course instructor and are subject to the following conditions of use:
+
+1. Students may record lectures or an other classroom activities and use the recordings only for their own course-related purposes.
+2. Students may share the recordings with other students enrolled in the class. Sharing is limited to using the recordings only for their own course-related purposes.
+3. Video and audio recordings made of online lectures may contain inaudible or invisible watermarks to identify shared media: https://support.zoom.us/hc/en-us/articles/360021839031-Audio-Watermark
+4. Students may not post the recordings or other course materials online or distribute them to anyone not enrolled in the class without the advance written permission of the course instructor and, if applicable, any students whose voice or image is included in the recordings.
+5. Any student violating the conditions described above may face academic disciplinary sanctions.
+
 ### MSU Community Compact regarding COVID-19: 
 
 The novel coronavirus, which causes the disease COVID-19, has been declared a worldwide pandemic. The COVID-19 virus is extremely contagious and is believed to spread mainly from person-to-person contact. The COVID-19 pandemic represents an unprecedented public health crisis that has impacted every facet of life, including the classroom environment. As a result, significant changes in how we conduct in-person classes must be made. This section of the syllabus discusses the policies and procedures we will use in class.
@@ -175,3 +191,9 @@ Personal Hygiene. All students must maintain proper hygiene and health practices
 
 **Additional information.** See <https://msu.edu/together-we-will/keeping-spartans-safe/> for details about these new policies and procedures and see <https://ehs.msu.edu/_assets/docs/fact-sheets/cloth-face-covering-fact-sheet.pdf> for more details about the cloth face coverings guidelines.
 
+**Instructor Illness.**
+In the event of instructor illness, another CMSE instructor will fill in as quickly as possible to minimize the possible disruption to the course.
+
+**Student Illness.**
+In the event you become ill and may need to take an extended leave of absence, please see 
+<https://deanofstudents.msu.edu/medical-leave> and <https://reg.msu.edu/AcademicPrograms/Print.aspx?Section=443>
