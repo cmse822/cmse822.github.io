@@ -7,7 +7,9 @@ title: Assignments
 
 ## Pre-class
 
-- [PCA 1](assignments/pca1.md), due 9/4
+- [PCA 0](assignments/pca0.md), due 9/3  
+  
+<!-- - [PCA 1](assignments/pca1.md), due 9/4
 - [PCA 2](assignments/pca2.md), due 9/11
 - [PCA 3](assignments/pca3.md), due 9/13
 - [PCA 4](assignments/pca4.md), due 9/18
@@ -25,11 +27,11 @@ title: Assignments
 - [PCA 16](assignments/pca16.md), due 11/13
 - [PCA 17](assignments/pca17.md), due 11/15
 - [PCA 18](assignments/pca18.md)
-- [PCA 19](assignments/pca19.md)
+- [PCA 19](assignments/pca19.md) -->
 
-## In-class
+## Homework
 
-- [ICA 1](assignments/ica1.md), 8/30
+<!-- - [ICA 1](assignments/ica1.md), 8/30
 - [ICA 2](assignments/ica2.md), 9/4
 - [ICA 3](assignments/ica3.md), 9/11
 - [ICA 4](assignments/ica4.md), 9/20
@@ -43,4 +45,4 @@ title: Assignments
 - [ICA 12](assignments/ica12.md), 11/1
 - [ICA 13](assignments/ica13.md), 11/6
 - [ICA 14](assignments/ica14.md)
-- [ICA 15](assignments/ica15.md)
+- [ICA 15](assignments/ica15.md) -->
