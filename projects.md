@@ -1,5 +1,7 @@
 # Final Projects
 
+Details about the course project will be posted later in the semester. 
+<!-- 
 ## Project topics
 
 You will complete one of the parallel programming and analysis projects below. For _all_ project topics, you must address or satisfy all of the following.
@@ -52,4 +54,4 @@ You may develop your own project topic, if you like. You must submit a 1-2 page 
 
 ## Poster Presentation
 
-You must submit your poster for printing to DECS using the online form [here](https://www.egr.msu.edu/decs/webform/poster-print-request). If you do _not_ have sufficient print page credit with DECS, speak with Prof. Couch. Submission to DECS is due *by Monday, December 3* in order to ensure your poster is ready for the mini-symposium *on December 6*. See the Slack channel for the rubric detailing how your poster will be evaluated.
+You must submit your poster for printing to DECS using the online form [here](https://www.egr.msu.edu/decs/webform/poster-print-request). If you do _not_ have sufficient print page credit with DECS, speak with Prof. Couch. Submission to DECS is due *by Monday, December 3* in order to ensure your poster is ready for the mini-symposium *on December 6*. See the Slack channel for the rubric detailing how your poster will be evaluated. -->
