@@ -1,12 +1,8 @@
-# Pre-class Assignment 1, due 9/4
-
-## Survey
-
-Complete the course survey at this link <https://goo.gl/forms/v7AB4OZgoi9lVPMu1.>
+# Pre-class Assignment 1, due 9/8
 
 ## Reading
 
-Read sections 1.1-1.3 of [High-Performance Scientific Computing](https://cmse-courses.slack.com/files/UC9P697JS/FCFH5HR6V/eijkhoutintrotohpc.pdf).
+Read sections 1.1-1.3 of [High-Performance Scientific Computing](../assets/EijkhoutIntroToHPC2020.pdf).
 
 ## Review
 
@@ -16,12 +12,4 @@ Read sections 1.1-1.3 of [High-Performance Scientific Computing](https://cmse-co
 
 ## Exercises
 
-Complete the following exercises from [HPSC](https://cmse-courses.slack.com/files/UC9P697JS/FCFH5HR6V/eijkhoutintrotohpc.pdf) assigned to you based on your designation within your group. It is critical that you complete the exercises assigned to you _before class_ since you will be responsible for presenting and explaining the solution to your group mates.
-
-Group member | Assigned exercises
--------------|-------------------
-1            | 1.1
-2            | 1.2, 1.8
-3            | 1.3
-4            | 1.4
-5 (or 1)     | 1.5
+Complete exercises 1.1 and 1.5 from [HPSC](../assets/EijkhoutIntroToHPC2020.pdf).
