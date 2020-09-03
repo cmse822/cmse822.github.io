@@ -7,11 +7,11 @@ title: Assignments
 
 ## Pre-class
 
-- [PCA 0](assignments/pca0.md), due 9/3  
+- [PCA 0](assignments/pca0.md), due 9/3   
+- [PCA 1](assignments/pca1.md), due 9/8
+- [PCA 2](assignments/pca2.md), due 9/10
   
-<!-- - [PCA 1](assignments/pca1.md), due 9/4
-- [PCA 2](assignments/pca2.md), due 9/11
-- [PCA 3](assignments/pca3.md), due 9/13
+<!--  - [PCA 3](assignments/pca3.md), due 9/13
 - [PCA 4](assignments/pca4.md), due 9/18
 - [PCA 5](assignments/pca5.md), due 9/20
 - [PCA 6](assignments/pca6.md), due 9/25
