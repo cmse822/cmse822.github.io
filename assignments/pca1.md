@@ -6,9 +6,7 @@ Read sections 1.1-1.3 of [High-Performance Scientific Computing](../assets/Eijkh
 
 ## Review
 
-1. Write up a list of the key points from the reading.
-2. What questions do you have about the subject material covered in the reading?
-3. Commit your write-up as a plain text or markdown document to your assignment repo _before the start of class_.
+1. In the `#questions` channel of the course Slack, post at least one question about the reading. If someone has already posted your question, you may instead "upvote" that question by reacting to it with a "thumbs up" or other appropriate reaction emoji. 
 
 ## Exercises
 

@@ -7,3 +7,4 @@
 3. If you haven't already, sign up for a [GitHub](github.com) account.
 4. Complete the course welcome survey: <https://forms.gle/hWH54bn6XigF1g9z8>
 5. In the `#questions` channel of the course Slack, post at least one question about the course or syllabus. If someone has already posted your question, you may instead "upvote" that question by reacting to it with a "thumbs up" or other appropriate reaction emoji. 
+   

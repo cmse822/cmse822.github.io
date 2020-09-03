@@ -7,11 +7,11 @@ title: Course Schedule
 
 The class will follow this _tentative_ schedule. Updates will be posted here and on the class [Slack](http://cmse-822.slack.com)!
 
-Date  | Topic                      | Pre-class | What's Due? | Notes
+Date  | Topic                      | Pre-class | Homework | Notes
 ------|----------------------------|-----------|-------------|------
-9/3   | Introduction to the course |            |  |
-9/8   | Single-processor computing |  |  |
-9/10  | Single-processor computing | | |
+9/3   | Introduction to the course | [PCA 0](assignments/pca0.md) |  |
+9/8   | Single-processor computing | [PCA 1](assignments/pca1.md) |  |
+9/10  | Single-processor computing | [PCA 2](assignments/pca2.md) | |
 9/15  | Single-processor, GPUs |  |  |
 9/17  | Parallel computing theory  |  | |
 9/22  | Parallel programming       |  | |
