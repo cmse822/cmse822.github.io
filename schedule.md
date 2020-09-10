@@ -12,7 +12,7 @@ Date  | Topic                      | Pre-class | Homework | Notes
 ------|----------------------------|-----------|-------------|------
 9/3   | [Introduction to the course ](assets/Lecture0.pdf) | [PCA 0](assignments/pca0.md) |  |
 9/8   | [GitHub/Single-processor computing](assets/Lecture1.pdf) | [PCA 1](assignments/pca1.md) | [HW 1](assignments/hw1.md) |
-9/10  | Single-processor computing | [PCA 2](assignments/pca2.md) | |
+9/10  | [Single-processor computing](assets/Lecture2.pdf) | [PCA 2](assignments/pca2.md) | |
 9/15  | Single-processor, GPUs |  |  | HW1 due
 9/17  | Parallel computing theory  |  | |
 9/22  | Parallel programming       |  | |
