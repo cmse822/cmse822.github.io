@@ -27,7 +27,7 @@ Zoom: [msu.zoom.us/my/scouch](http://msu.zoom.us/my/scouch)
 
 **Teaching Assistant/Grader:**  
 Jared Carlson  
-Office hours:  MW, 4-5 pm  
+Office hours:  MW, 5-6 pm  
 Zoom: <https://msu.zoom.us/j/91001529758>  
 [cmse822ta@gmail.com](mailto:cmse822ta@gmail.com)
 
