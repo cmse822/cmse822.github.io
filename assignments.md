@@ -33,6 +33,7 @@ title: Assignments
 ## Homework
 
 - [HW 1](assignments/hw1.md), due 9/15
+- [HW 2](assignments/hw2.md), due 9/22
 
 <!-- - [ICA 1](assignments/ica1.md), 8/30
 - [ICA 2](assignments/ica2.md), 9/4
