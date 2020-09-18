@@ -13,9 +13,9 @@ Date  | Topic                      | Pre-class | Homework | Notes
 9/3   | [Introduction to the course ](assets/Lecture0.pdf) | [PCA 0](assignments/pca0.md) |  |
 9/8   | [GitHub/Single-processor computing](assets/Lecture1.pdf) | [PCA 1](assignments/pca1.md) | [HW 1](assignments/hw1.md) |
 9/10  | [Single-processor computing](assets/Lecture2.pdf) | [PCA 2](assignments/pca2.md) | |
-9/15  | Single-processor review |  | [HW 2](assignments/hw2.md) | HW1 due
-9/17  | Parallel computing theory  | [PCA 3](assignments/pca3.md) | |
-9/22  | Parallel programming       |  | |
+9/15  | [Single-processor review](assets/Lecture3.pdf) |  | [HW 2](assignments/hw2.md) | HW1 due
+9/17  | [Parallel computing theory](assets/Lecture4.pdf)  | [PCA 3](assignments/pca3.md) | |
+9/22  | Parallel programming       |  | | HW2 due
 9/24  | Network Topologies 
 9/29  | The Seven Dwarfs           | | | 
 10/1  | Intro to MPI, functional parallelism   |  |  |

@@ -5,6 +5,10 @@ title: Resources
 
 # Resources
 
+## Tutorial on using HPCC 
+
+- [HPCC MSU Tutorial](HPCC_MSU_Tutorial.md)
+  
 ## Textbooks
 
 - [Intro to High-Performance Scientific Computing](assets/EijkhoutIntroToHPC2020.pdf)
