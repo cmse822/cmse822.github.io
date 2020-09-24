@@ -1,20 +1,17 @@
-# Pre-class Assignment 6, due 9/25
+# Pre-class Assignment 6, due 9/29
 
 ## Reading
 
-Read Chapter 3 of [Parallel Programming in MPI and OpenMP](https://cmse-courses.slack.com/files/UC9P697JS/FCG8WB42Z/eijkhoutparcomp.pdf).
+Read sections 1, 2, and 3 of [The Landscape of Parallel Computing Research: A View from Berkeley](../assets/EECS-2006-183.pdf).
 
 ## Review
 
-1. Write up a list of the key points from the reading.
-2. What questions do you have about the subject material covered in the reading?
+1. In the `#questions` channel of the course Slack, post at least one question about the reading. If someone has already posted your question, you may instead "upvote" that question by reacting to it with a "thumbs up" or other appropriate reaction emoji. 
 
-## Exercises
+## Questions
 
-1. Exercise 3.1
-2. Exercise 3.8
-3. Exercise 3.14
+1. Briefly describe your own research problem (or one that interests you if you have not yet settled on a topic) in terms of the 13 dwarfs described in the reading.
 
 ## What to turn-in
 
-Commit your write-up, including review and questions, as a plain text, markdown document, or pdf to your assignment repo _before the start of class_.
+Commit your answers to the questions, as a plain text, markdown document, or pdf to your assignment repo _before the start of class_.

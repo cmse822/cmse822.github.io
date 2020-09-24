@@ -1,20 +1,17 @@
-# Pre-class Assignment 7, due 9/27
+# Pre-class Assignment 7, due 10/1
 
 ## Reading
 
-Read Sections 4.1 and 4.2 of [Parallel Programming in MPI and OpenMP](https://cmse-courses.slack.com/files/UC9P697JS/FCG8WB42Z/eijkhoutparcomp.pdf).
+Read Chapters 1 and 2 of [Parallel Programming for Science and Engineering](../assets/EijkhoutParallelProgramming.pdf).
 
-<!-- ## Review
+## Review
 
-1. Write up a list of the key points from the reading.
-2. What questions do you have about the subject material covered in the reading? -->
+1. In the `#questions` channel of the course Slack, post at least one question about the reading. If someone has already posted your question, you may instead "upvote" that question by reacting to it with a "thumbs up" or other appropriate reaction emoji. 
 
 ## Exercises
 
-_None_
+Complete the 3 review questions in Section 1.6 and the 3 review questions in Section 2.5. 
 
 ## What to turn-in
 
-_Nothing_
-
-<!-- Commit your write-up, including review and questions, as a plain text, markdown document, or pdf to your assignment repo _before the start of class_. -->
+Commit your write-up, including review and questions, as a plain text, markdown document, or pdf to your assignment repo _before the start of class_.
