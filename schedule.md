@@ -17,7 +17,7 @@ Date  | Topic                      | Pre-class | Homework | Notes
 9/17  | [Parallel computing theory](assets/Lecture4.pdf)  | [PCA 3](assignments/pca3.md) | |
 9/22  | [Parallel programming](assets/Lecture5.pdf)       | [PCA 4](assignments/pca4.md) | [HW 3](assignments/hw3.md) | HW2 due
 9/24  | [Network Topologies](assets/Lecture6.pdf) | [PCA 5](assignments/pca5.md)  
-9/29  | The Seven Dwarfs           | [PCA 6](assignments/pca6.md) | | HW3 due
+9/29  | The Seven Dwarfs           | [PCA 6](assignments/pca6.md) | [HW 4](assignments/hw4.md) | HW3 due
 10/1  | Intro to MPI, functional parallelism   | [PCA 7](assignments/pca7.md) |  |
 10/6  | Collective communication |  |  |
 10/8  | Point-to-point communication |  | |
