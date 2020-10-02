@@ -1,8 +1,8 @@
-# Pre-class Assignment 6, due 9/25
+# Pre-class Assignment 9, due 10/4
 
 ## Reading
 
-Read Chapter 3 of [Parallel Programming in MPI and OpenMP](https://cmse-courses.slack.com/files/UC9P697JS/FCG8WB42Z/eijkhoutparcomp.pdf).
+Read Chapters 5, 6, and 7 of [Parallel Programming in MPI and OpenMP](https://cmse-courses.slack.com/files/UC9P697JS/FCG8WB42Z/eijkhoutparcomp.pdf).
 
 ## Review
 
@@ -11,9 +11,7 @@ Read Chapter 3 of [Parallel Programming in MPI and OpenMP](https://cmse-courses.
 
 ## Exercises
 
-1. Exercise 3.1
-2. Exercise 3.8
-3. Exercise 3.14
+Exercises 5.1, 5.5.
 
 ## What to turn-in
 

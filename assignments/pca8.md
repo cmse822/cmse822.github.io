@@ -1,18 +1,22 @@
-# Pre-class Assignment 8, due 10/2
+# Pre-class Assignment 8, due 10/6
 
 ## Reading
 
-Read Sections 4.3 through 4.5 of [Parallel Programming in MPI and OpenMP](https://cmse-courses.slack.com/files/UC9P697JS/FCG8WB42Z/eijkhoutparcomp.pdf). Be sure to take not of the example source code at the end of the chapter.
+Read Sections 3.1 through 3.5 of [Parallel Programming for Science and Engineering](../assets/EijkhoutParallelProgramming.pdf).
 
 ## Review
 
-1. Write up a list of the key points from the reading.
-2. What questions do you have about the subject material covered in the reading?
+1. In the `#questions` channel of the course Slack, post at least one question about the reading. If someone has already posted your question, you may instead "upvote" that question by reacting to it with a "thumbs up" or other appropriate reaction emoji. 
 
 ## Exercises
 
-Exercise 4.5. Do not worry about measuring latency and bandwidth. Yet.
+Complete the following review questions in Section 3.15 of [PPSE](../assets/EijkhoutParallelProgramming.pdf).
+
+1. Exercise 3.25
+2. Exercise 3.26
+3. Exercise 3.27
+4. Exercise 3.28
 
 ## What to turn-in
 
-Commit your code and write-up, including review and questions, as a plain text, markdown document, or pdf to your assignment repo _before the start of class_.
+Commit your write-up, including review and questions, as a plain text, markdown document, or pdf to your assignment repo _before the start of class_.

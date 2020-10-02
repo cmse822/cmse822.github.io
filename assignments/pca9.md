@@ -1,17 +1,22 @@
-# Pre-class Assignment 9, due 10/4
+# Pre-class Assignment 9, due 10/8
 
 ## Reading
 
-Read Chapters 5, 6, and 7 of [Parallel Programming in MPI and OpenMP](https://cmse-courses.slack.com/files/UC9P697JS/FCG8WB42Z/eijkhoutparcomp.pdf).
+Read Sections 3.6 through 3.14 of [Parallel Programming for Science and Engineering](../assets/EijkhoutParallelProgramming.pdf).
 
 ## Review
 
-1. Write up a list of the key points from the reading.
-2. What questions do you have about the subject material covered in the reading?
+1. In the `#questions` channel of the course Slack, post at least one question about the reading. If someone has already posted your question, you may instead "upvote" that question by reacting to it with a "thumbs up" or other appropriate reaction emoji. 
 
 ## Exercises
 
-Exercises 5.1, 5.5.
+Complete the following review questions in Section 3.15 of [PPSE](../assets/EijkhoutParallelProgramming.pdf).
+
+1. Exercise 3.29
+2. Exercise 3.30
+3. Exercise 3.31
+4. Exercise 3.32
+5. Exercise 3.33
 
 ## What to turn-in
 

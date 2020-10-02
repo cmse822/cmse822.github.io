@@ -18,9 +18,9 @@ Date  | Topic                      | Pre-class | Homework | Notes
 9/22  | [Parallel programming](assets/Lecture5.pdf)       | [PCA 4](assignments/pca4.md) | [HW 3](assignments/hw3.md) | HW2 due
 9/24  | [Network Topologies](assets/Lecture6.pdf) | [PCA 5](assignments/pca5.md)  
 9/29  | The Seven Dwarfs           | [PCA 6](assignments/pca6.md) | [HW 4](assignments/hw4.md) | HW3 due
-10/1  | Intro to MPI, functional parallelism   | [PCA 7](assignments/pca7.md) |  |
-10/6  | Collective communication |  |  |
-10/8  | Point-to-point communication |  | |
+10/1  | [Intro to MPI, functional parallelism](assets/Lecture8.pdf)   | [PCA 7](assignments/pca7.md) |  |
+10/6  | Collective communication | [PCA 8](./assignments/pca8.md) |  | HW4 due
+10/8  | Collective communication | [PCA 9](assignments/pca9.md) | |
 10/13 | Point-to-point communication |  |  |
 10/15 | Data types, communicators, proc. mgmt.    |  |  |
 10/20 | Multi-threading, co-processors, etc.     | |  |
