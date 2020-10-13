@@ -37,7 +37,8 @@ title: Assignments
 - [HW 3](assignments/hw3.md), due 9/29 
 - [HW 4](assignments/hw4.md), due 10/6
 - [HW 5](assignments/hw5.md), due 10/13
-    
+- [HW 6](assignments/hw6.md), due 10/20
+      
 <!-- - [ICA 1](assignments/ica1.md), 8/30
 - [ICA 2](assignments/ica2.md), 9/4
 - [ICA 3](assignments/ica3.md), 9/11

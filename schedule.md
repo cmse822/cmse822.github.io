@@ -21,9 +21,9 @@ Date  | Topic                      | Pre-class | Homework | Notes
 10/1  | [Intro to MPI, functional parallelism](assets/Lecture8.pdf)   | [PCA 7](assignments/pca7.md) |  |
 10/6  | [Collective communication](assets/Lecture9.pdf) | [PCA 8](./assignments/pca8.md) | [HW 5](assignments/hw5.md) | HW4 due
 10/8  | [Collective communication](assets/Lecture10.pdf) | [PCA 9](assignments/pca9.md) | |
-10/13 | Point-to-point communication | [PCA 10](assignments/pca10.md) |  |
+10/13 | Point-to-point communication | [PCA 10](assignments/pca10.md) | [HW 6](assignments/hw6.md) | HW5 due
 10/15 | Point-to-point communication | [PCA 11](assignments/pca11.md) | | 
-10/20 | Data types, communicators, proc. mgmt.    |  |  |
+10/20 | Data types, communicators, proc. mgmt.    |  |  | HW6 due
 10/22 | Multi-threading, co-processors, etc.     | |  |
 10/27 | OpenMP, regions, loops |  |  |
 10/29 | Worksharing, thread data, reductions |  | |
