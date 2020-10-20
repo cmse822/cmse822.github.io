@@ -132,4 +132,4 @@ Look at the non-functional code [`mpi_subcommReduce.cpp`](mpi_subcommReduce.cpp)
 
 ## What to turn in
 
-Commit your working versions of `create_struct.cpp` and `mpi_subcommReduce.cpp` to your assignment repos in the `ica8` directory.
+Commit your working versions of `create_struct.cpp` and `mpi_subcommReduce.cpp` to your assignment repos in the `hw7` directory.

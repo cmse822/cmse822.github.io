@@ -19,6 +19,7 @@ title: Assignments
 - [PCA 9](assignments/pca9.md), due 10/8
 - [PCA 10](assignments/pca10.md), due 10/13
 - [PCA 11](assignments/pca11.md), due 10/15
+- [PCA 12](assignments/pca12.md), due 10/22
     
 <!--  
 - [PCA 12](assignments/pca12.md), due 10/21
@@ -38,6 +39,7 @@ title: Assignments
 - [HW 4](assignments/hw4.md), due 10/6
 - [HW 5](assignments/hw5.md), due 10/13
 - [HW 6](assignments/hw6.md), due 10/20
+- [HW 7](assignments/hw7.md), due 10/27
       
 <!-- - [ICA 1](assignments/ica1.md), 8/30
 - [ICA 2](assignments/ica2.md), 9/4
