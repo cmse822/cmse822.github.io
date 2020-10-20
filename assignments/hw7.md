@@ -1,4 +1,4 @@
-# In-Class Assignment 8, 10/9
+# Homework 7, due 10/27
 
 This exercise based on <https://tech.io/playgrounds/349/introduction-to-mpi/custom-types.>
 
