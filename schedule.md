@@ -24,7 +24,7 @@ Date  | Topic                      | Pre-class | Homework | Notes
 10/13 | Point-to-point communication | [PCA 10](assignments/pca10.md) | [HW 6](assignments/hw6.md) | HW5 due
 10/15 | [Point-to-point communication](assets/Lecture12.pdf) | [PCA 11](assignments/pca11.md) | | 
 10/20 | [Data types, communicators](assets/Lecture13.pdf)    |  | [HW 7](assignments/hw7.md) | HW6 due
-10/22 | Getting started with OpenMP     | [PCA 12](assignments/pca12.md) |  |
+10/22 | [Getting started with OpenMP](assets/Lecture14.pdf)  | [PCA 12](assignments/pca12.md) |  |
 10/27 | OpenMP, regions, loops | [PCA 13](assignments/pca13.md) |  | HW7 due
 10/29 | Worksharing, thread data, reductions | [PCA 14](assignments/pca14.md) | |
 11/3 | Synchronization, tasks     | | |
