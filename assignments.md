@@ -32,4 +32,5 @@ title: Assignments
 - [HW 5](assignments/hw5.md), due 10/13
 - [HW 6](assignments/hw6.md), due 10/20
 - [HW 7](assignments/hw7.md), due 10/27
+- [HW 8](assignments/hw8.md), due 11/5
       
