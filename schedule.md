@@ -27,16 +27,16 @@ Date  | Topic                      | Pre-class | Homework | Notes
 10/22 | [Getting started with OpenMP](assets/Lecture14.pdf)  | [PCA 12](assignments/pca12.md) |  |
 10/27 | OpenMP, regions, loops | [PCA 13](assignments/pca13.md) | [HW8](assignments/hw8.md) | HW7 due
 10/29 | Worksharing, thread data, reductions | [PCA 14](assignments/pca14.md) | |
-11/3 | Synchronization, tasks     | | |
-11/5  | One-sided communication | |  | HW8 due
-11/10  |  I/O, shared memory MPI, HDF5        |  |  |
-11/12 | Affinity, memory models |  |  |
-11/17 | SIMD, OpenMP review | | |
-11/19 | OpenMP 4.5 GPU    |  | |
-11/24 | GPUs   |  | | 
+11/3 |  _CANCELLED_   | | |
+11/5  | Synchronization, tasks | [PCA 15]() |  | HW8 due
+11/10  | One-sided communication         |  |  |
+11/12 | I/O, shared memory MPI, HDF5 |  |  |
+11/17 | Affinity, memory models | | |
+11/19 | SIMD, OpenMP review    |  | |
+11/24 | OpenMP 4.5 GPU   |  | | 
 11/26 | _No class!_ | |  |
 12/1 | GPUs    | | |
-12/3  | Advanced architectures        | | |
-12/8  | TBD            | | |
+12/3  | GPUs        | | |
+12/8  | Advanced architectures       | | |
 12/10 | Review          | | | 
 12/17 | _Final exam_ (10 am - 12 pm) | | |
