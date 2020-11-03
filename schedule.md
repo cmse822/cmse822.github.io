@@ -28,7 +28,7 @@ Date  | Topic                      | Pre-class | Homework | Notes
 10/27 | OpenMP, regions, loops | [PCA 13](assignments/pca13.md) | [HW8](assignments/hw8.md) | HW7 due
 10/29 | Worksharing, thread data, reductions | [PCA 14](assignments/pca14.md) | |
 11/3 |  _CANCELLED_   | | |
-11/5  | Synchronization, tasks | [PCA 15]() |  | HW8 due
+11/5  | Synchronization, tasks | [PCA 15](assignments/pca15.md) |  | HW8 due
 11/10  | One-sided communication         |  |  |
 11/12 | I/O, shared memory MPI, HDF5 |  |  |
 11/17 | Affinity, memory models | | |
