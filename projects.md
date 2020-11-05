@@ -1,8 +1,5 @@
 # Final Projects
 
-Details about the course project will be posted later in the semester. 
-
-<!-- 
 ## Project topics
 
 You will complete one of the parallel programming and analysis projects below. For _all_ project topics, you must address or satisfy all of the following.
@@ -17,42 +14,46 @@ You will complete one of the parallel programming and analysis projects below. F
 
 Note that for many of these project topics, parallel code can easily be obtained online. _You must develop your own original code to address your problem_. Researching your problem on the web is expected and encouraged, but I recommend you avoid looking directly at someone's code for inspiration.
 
-For selecting the project, you must _bid_ for what you want to do. See the link posted to the course Slack channel. The possible project topics are listed bellow. 
-
 ### 1. Heat Equation
 
-### 2. Jacobi Iteration
-
-### 3. Ray Tracing
+See Section 31.3 of [HPSC](assets/EijkhoutIntroToHPC2020.pdf).
 
 ### 4. Poisson Equation
 
+See Section 4.2.2 of [HPSC](assets/EijkhoutIntroToHPC2020.pdf).
+
 ### 5. Conjugate Gradient
 
-### 6. Agent Based Model
-
-### 7. Advection Equation
-
-### 8. Clustering Algorithm
+See Section 5.5.11 of [HPSC](assets/EijkhoutIntroToHPC2020.pdf).
 
 ### 9. Gaussian Elimination
 
-### 10. Neural Network
+See Section 5.1 of [HPSC](assets/EijkhoutIntroToHPC2020.pdf).
 
 ### 11. Molecular Dynamics
 
-### 12. Quicksort
+See Chapter 7 of [HPSC](assets/EijkhoutIntroToHPC2020.pdf).
+
+### 12. Sorting and Combinatorics
+
+See Chapter 8 of [HPSC](assets/EijkhoutIntroToHPC2020.pdf).
+
+### Graph analytics
+
+See Chapter 9 of [HPSC](assets/EijkhoutIntroToHPC2020.pdf).
 
 ### 13. N-body Simulation
 
+See Chapter 10 of [HPSC](assets/EijkhoutIntroToHPC2020.pdf).
+
 ### 14. Monte Carlo Transport
 
-### 15. _Custom Project_
-
-You may develop your own project topic, if you like. You must submit a 1-2 page proposal explaining the subject, the rationale for doing it as your class project, and specific strategies for how you will address all of the requirements for the projects listed above. 
+See Chapter 11 of [HPSC](assets/EijkhoutIntroToHPC2020.pdf).
 
 ## Project Reports
 
-## Poster Presentation
+You will prepare and submit a report detailing your project, code, and results. The reports will be peer-reviewed and graded according to [this rubric](assets/projectRubric.pdf).
 
-You must submit your poster for printing to DECS using the online form [here](https://www.egr.msu.edu/decs/webform/poster-print-request). If you do _not_ have sufficient print page credit with DECS, speak with Prof. Couch. Submission to DECS is due *by Monday, December 3* in order to ensure your poster is ready for the mini-symposium *on December 6*. See the Slack channel for the rubric detailing how your poster will be evaluated. -->
+## Project video
+
+As part of your final project submission, you will prepare and record at 10 minute video lecture with slides summarizing your project and results. 
