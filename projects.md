@@ -18,35 +18,35 @@ Note that for many of these project topics, parallel code can easily be obtained
 
 See Section 31.3 of [HPSC](assets/EijkhoutIntroToHPC2020.pdf).
 
-### 4. Poisson Equation
+### 2. Poisson Equation
 
 See Section 4.2.2 of [HPSC](assets/EijkhoutIntroToHPC2020.pdf).
 
-### 5. Conjugate Gradient
+### 3. Conjugate Gradient
 
 See Section 5.5.11 of [HPSC](assets/EijkhoutIntroToHPC2020.pdf).
 
-### 9. Gaussian Elimination
+### 4. Gaussian Elimination
 
 See Section 5.1 of [HPSC](assets/EijkhoutIntroToHPC2020.pdf).
 
-### 11. Molecular Dynamics
+### 5. Molecular Dynamics
 
 See Chapter 7 of [HPSC](assets/EijkhoutIntroToHPC2020.pdf).
 
-### 12. Sorting and Combinatorics
+### 6. Sorting and Combinatorics
 
 See Chapter 8 of [HPSC](assets/EijkhoutIntroToHPC2020.pdf).
 
-### Graph analytics
+### 7. Graph analytics
 
 See Chapter 9 of [HPSC](assets/EijkhoutIntroToHPC2020.pdf).
 
-### 13. N-body Simulation
+### 8. N-body Simulation
 
 See Chapter 10 of [HPSC](assets/EijkhoutIntroToHPC2020.pdf).
 
-### 14. Monte Carlo Transport
+### 9. Monte Carlo Transport
 
 See Chapter 11 of [HPSC](assets/EijkhoutIntroToHPC2020.pdf).
 
