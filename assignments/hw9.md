@@ -10,7 +10,7 @@ Look at the example Fortran and C++ code in the `hw9` directory of your assignme
 
 ## Latency hiding with one-sided MPI 
 
-1. Watch the lecture by Bill Gropp on One-sided MPI: <https://www.youtube.com/watch?v=CW2EDMRyEH>. 
+1. Watch the lecture by Bill Gropp on One-sided MPI: <https://www.youtube.com/watch?v=CW2EDMRyEH8&t=2535s>. 
 2. Modify your three-point averaging code to use one-sided MPI communication to achieve the halo exchanges.
 3. Implement overlapping communication and calculation then be sure to correctly handle computing the "boundary" values that depend on halo data.
 4. Verify that you get sensible results for arbitrary number of processors and global array sizes.

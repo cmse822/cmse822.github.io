@@ -38,5 +38,5 @@ Date  | Topic                      | Pre-class | Homework | Notes
 12/1 | GPUs    | | |
 12/3  | GPUs        | | |
 12/8  | Advanced architectures       | | |
-12/10 | Review          | | | 
-12/17 | _Final exam_ (10 am - 12 pm) | | |
+12/10 | Review          | | | Projects due! 
+12/17 | _Final exam_ (10 am - 12 pm) | | | Peer reviews due!
