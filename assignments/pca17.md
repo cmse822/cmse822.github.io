@@ -6,7 +6,7 @@ Read Chapter 9 of [Parallel Programming for Science and Engineering](../assets/E
 
 ## Video Lecture
 
-Watch the _Scalable HDF5_ tutorial video available [here](https://www.youtube.com/watch?v=eQisB6gie7s).
+Watch the _Scalable HDF5_ tutorial video available [here](https://youtu.be/MWbw_ixS2Sg).
 
 ## Review
 
