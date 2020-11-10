@@ -25,11 +25,11 @@ Date  | Topic                      | Pre-class | Homework | Notes
 10/15 | [Point-to-point communication](assets/Lecture12.pdf) | [PCA 11](assignments/pca11.md) | | 
 10/20 | [Data types, communicators](assets/Lecture13.pdf)    |  | [HW 7](assignments/hw7.md) | HW6 due
 10/22 | [Getting started with OpenMP](assets/Lecture14.pdf)  | [PCA 12](assignments/pca12.md) |  |
-10/27 | OpenMP, regions, loops | [PCA 13](assignments/pca13.md) | [HW8](assignments/hw8.md) | HW7 due
-10/29 | Worksharing, thread data, reductions | [PCA 14](assignments/pca14.md) | |
+10/27 | [OpenMP, regions, loops](assets/Lecture15.pdf) | [PCA 13](assignments/pca13.md) | [HW8](assignments/hw8.md) | HW7 due
+10/29 | [Worksharing, thread data, reductions](assets/Lecture16.pdf) | [PCA 14](assignments/pca14.md) | |
 11/3 |  _CANCELLED_   | | |
-11/5  | Synchronization, tasks | [PCA 15](assignments/pca15.md) |  | HW8 due
-11/10  | One-sided communication | [PCA 16](assignments/pca16.md) | [HW 9](assignments/hw9.md) |
+11/5  | [Synchronization, tasks](assets/Lecture17.pdf) | [PCA 15](assignments/pca15.md) |  | HW8 due
+11/10  | [One-sided communication](assets/Lecture18.pdf) | [PCA 16](assignments/pca16.md) | [HW 9](assignments/hw9.md) |
 11/12 | I/O, HDF5 | [PCA 17](assignments/pca17.md) |  |
 11/17 | Affinity, memory models, shared memory MPI | | | HW9 due
 11/19 | SIMD, OpenMP review    |  | |
