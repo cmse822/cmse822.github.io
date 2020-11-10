@@ -10,10 +10,11 @@ Look at the example Fortran and C++ code in the `hw9` directory of your assignme
 
 ## Latency hiding with one-sided MPI 
 
-1. Modify your three-point averaging code to use one-sided MPI communication to achieve the halo exchanges.
-2. Implement overlapping communication and calculation then be sure to correctly handle computing the "boundary" values that depend on halo data.
-3. Verify that you get sensible results for arbitrary number of processors and global array sizes.
-4. Compare the relative performance of the non-blocking and one-sided versions of your three-point averaging code for up to 200 ranks keeping the array size per-rank fixed. 
+1. Watch the lecture by Bill Gropp on One-sided MPI: <https://www.youtube.com/watch?v=CW2EDMRyEH>. 
+2. Modify your three-point averaging code to use one-sided MPI communication to achieve the halo exchanges.
+3. Implement overlapping communication and calculation then be sure to correctly handle computing the "boundary" values that depend on halo data.
+4. Verify that you get sensible results for arbitrary number of processors and global array sizes.
+5. Compare the relative performance of the non-blocking and one-sided versions of your three-point averaging code for up to 200 ranks keeping the array size per-rank fixed. 
 
 ## What to turn-in
 
