@@ -25,6 +25,7 @@ title: Assignments
 - [PCA 15](assignments/pca15.md), due 11/5
 - [PCA 16](assignments/pca16.md), due 11/10
 - [PCA 17](assignments/pca17.md), due 11/12
+- [PCA 18](assignments/pca18.md), due 11/17
 
 ## Homework
 
