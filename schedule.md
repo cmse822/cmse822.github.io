@@ -32,7 +32,7 @@ Date  | Topic                      | Pre-class | Homework | Notes
 11/10  | [One-sided communication](assets/Lecture18.pdf) | [PCA 16](assignments/pca16.md) | [HW 9](assignments/hw9.md) |
 11/12 | I/O, HDF5 | [PCA 17](assignments/pca17.md) |  |
 11/17 | Affinity, memory models, shared memory MPI | [PCA 18](assignments/pca18.md) | | HW9 due
-11/19 | SIMD, OpenMP review    |  | |
+11/19 | SIMD, OpenMP review    | [PCA 19](assignments/pca19.md) | [HW 10](assignments/hw10.md) |
 11/24 | OpenMP 4.5 GPU   |  | | 
 11/26 | _No class!_ | |  |
 12/1 | GPUs    | | |

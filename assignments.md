@@ -26,6 +26,7 @@ title: Assignments
 - [PCA 16](assignments/pca16.md), due 11/10
 - [PCA 17](assignments/pca17.md), due 11/12
 - [PCA 18](assignments/pca18.md), due 11/17
+- [PCA 19](assignments/pca19.md), due 11/19
 
 ## Homework
 
@@ -38,4 +39,5 @@ title: Assignments
 - [HW 7](assignments/hw7.md), due 10/27
 - [HW 8](assignments/hw8.md), due 11/5
 - [HW 9](assignments/hw9.md), due 11/17
+- [HW 10](assignments/hw10.md), nothing to turn in!
       
