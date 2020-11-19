@@ -4,7 +4,7 @@
 
 You will complete one of the parallel programming and analysis projects below. For _all_ project topics, you must address or satisfy all of the following.
 
-- Combine two _different_ parallel programming models: distributed memory (i.e., MPI), shared memory (i.e., OpenMP), GPUs (i.e., CUDA or OpenACC).
+- Combine two _different_ parallel programming models: distributed memory (i.e., MPI), shared memory (i.e., OpenMP), GPUs (i.e., CUDA or OpenMP Offloading).
 - Explore different parallelization strategies (i.e., domain decomposition, task-based, etc.).
 - Develop a _verification_ test to ensure the correctness of your solution. Ensure that the solution does not change with the number of parallel tasks.
 - Address load balancing and strategies for maintaining balance as tasks are increased.
