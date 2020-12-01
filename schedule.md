@@ -35,8 +35,8 @@ Date  | Topic                      | Pre-class | Homework | Notes
 11/19 | SIMD, OpenMP review    | [PCA 19](assignments/pca19.md) | [HW11](assignments/hw11.md) | HW9 due
 11/24 | OpenMP 4.5 GPU   | [PCA 20](assignments/pca20.md) | | 
 11/26 | _No class!_ | |  |
-12/1 | GPUs    | | | HW10 due
-12/3  | GPUs        | | |
-12/8  | Advanced architectures       | | |
+12/1 | Project work day    | | | HW10 due
+12/3  | GPUs, CUDA        | [PCA 21](assignments/pca21.md) | |
+12/8  | _CANCELLED_       | | |
 12/10 | Review          | | | Projects due! 
-12/17 | _Final exam_ (10 am - 12 pm) | | | Peer reviews due!
+12/17 | _Final Project Review_ (10 am - 12 pm) | | | Peer reviews due!
