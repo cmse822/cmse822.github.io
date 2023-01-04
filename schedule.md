@@ -30,10 +30,10 @@ Date  | Topic                      | Pre-class | Homework | Notes
 11/3 |  _CANCELLED_   | | |
 11/5  | [Synchronization, tasks](assets/Lecture17.pdf) | [PCA 15](assignments/pca15.md) |  | HW8 due
 11/10  | [One-sided communication](assets/Lecture18.pdf) | [PCA 16](assignments/pca16.md) | [HW 9](assignments/hw9.md) |
-11/12 | I/O, HDF5 | [PCA 17](assignments/pca17.md) |  |
-11/17 | Affinity, memory models, shared memory MPI | [PCA 18](assignments/pca18.md) |[HW 10](assignments/hw10.md) | 
-11/19 | SIMD, OpenMP review    | [PCA 19](assignments/pca19.md) | [HW11](assignments/hw11.md) | HW9 due
-11/24 | OpenMP 4.5 GPU   | [PCA 20](assignments/pca20.md) | | 
+11/12 | [I/O, HDF5](assets/Lecture19.pdf) | [PCA 17](assignments/pca17.md) |  |
+11/17 | [Affinity, memory models, shared memory MPI](assets/Lecture20.pdf) | [PCA 18](assignments/pca18.md) |[HW 10](assignments/hw10.md) | 
+11/19 | [SIMD, OpenMP review](assets/Lecture21.pdf)    | [PCA 19](assignments/pca19.md) | [HW11](assignments/hw11.md) | HW9 due
+11/24 | [OpenMP 4.5 GPU](assets/Lecture22.pdf)   | [PCA 20](assignments/pca20.md) | | 
 11/26 | _No class!_ | |  |
 12/1 | Project work day    | | | HW10 due
 12/3  | GPUs, CUDA        | [PCA 21](assignments/pca21.md) | |
