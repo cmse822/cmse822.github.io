@@ -1,8 +1,8 @@
-# Syllabus - CMSE 822
+# Syllabus - CMSE/CSE 822
 
-## Fall 2020, Michigan State University
+## Spring 2023, Michigan State University
 
-This graduate-level course covers the practical and theoretical aspects of parallel and high-performance computing in science and engineering.
+This graduate-level course covers the practical and theoretical aspects of  high-performance parallel computing in science and engineering.
 
 ### Course Goals
 
@@ -15,27 +15,30 @@ At the conclusion of this course, you should be able to
   - hybrid parallelism 
   - and GPU hardware
 - Make effective use of high-performance parallel computing architectures
+- Understand the current state of high-performance parallel computing
 
 ### Instructor information
 
 Prof. Sean M. Couch, Ph.D. (he/him)  
-Assistant Professor  
-Office hours: by appointment  
+Associate Professor
+Department of Physics and Astronomy
+Department of Computational Mathematics, Science, and Engineering
+Facility for Rare Isotope Beams  
+Office hours: Tu/Th 1-3:30 pm; [Bookings appointment](https://tinyurl.com/4uen8952) _required_  
 Zoom: [msu.zoom.us/my/scouch](http://msu.zoom.us/my/scouch)  
 [scouch@msu.edu](mailto:scouch@msu.edu)  
 [www.pa.msu.edu/~couch](http://www.pa.msu.edu/~couch)
 
 **Teaching Assistant/Grader:**  
-Jared Carlson  
-Office hours:  MW, 5-6 pm  
-Zoom: <https://msu.zoom.us/j/91001529758>  
-[cmse822ta@gmail.com](mailto:cmse822ta@gmail.com)
+Nathan Haut  
+Office hours: Wednesdays, 2:30-4 pm, 2504 EGR  
+[hautnath@msu.edu](mailto:hautnath@msu.edu)
 
 ### Class meetings and office hours
 
-This is a "hybrid" course, meaning mostly online interaction. In-person interaction amongst small groups with appropriate social distancing will occur on an as-needed basis.
-The class meets virtually Tuesdays and Thursdays from 10:20 am to 11:40 am Eastern via Zoom, at [this link](https://msu.zoom.us/j/99100851306?pwd=d2dxWk9kbzJqY1R6S3pYUFhUR1JpUT09). You will be required to log in to Zoom _using your MSU NetID_. Additionally, there is a password to get in which will be sent to you via email. Class meetings are meant to be highly interactive and you are expected to attend if possible.
-Zoom sessions will also be recorded and made available for review.
+The class meets Tuesdays and Thursdays from 10:20 am to 11:40 am Eastern in EGR 2400. 
+Class meetings are meant to be highly interactive and you are expected to attend if possible.
+In the occasion that you are unable to attend in-person, you may join via Zoom at [this link](https://msu.zoom.us/j/96421232503?pwd=TXJ2WjFoeHFSZUhZSDJhNGVMeFRTQT09). You will be required to log in to Zoom _using your MSU NetID_. Additionally, there is a password which will be sent to you via email. 
 
 ### Communication and Slack
 
@@ -56,19 +59,17 @@ Supplementary reading and reference material is available on the course webpage 
 
 ### Required technologies and software 
 
-- Zoom 
 - Slack
-- Internet connection sufficient for Zoom video conferencing (about 25 mbps). 
 - a GitHub account
 - a MSU HPCC account
 
 ### Use of HPCC
 
-Many of the course assignments will utilize the MSU campus High Performance Computing Center (HPCC). All students must obtain an account on the HPCC. The best way to get an HPCC is through your research mentors. If this is not feasible, talk to the course instructor.
+The course assignments and projects will utilize the MSU campus High Performance Computing Center (HPCC). All students must obtain an account on the HPCC. The best way to get an HPCC is through your research mentor. If this is not feasible, talk to the course instructor about getting an account.
 
-### Assignments
+### Pre-class Assignments
 
-The coursework consists of a combination of pre-class assignments and homework. The pre-class assignments will serve as the basis for in-class discussion and so it is important that you complete them.
+For almost every class meeting, there will be an associated pre-class assignment that you should complete before attending. The pre-class assignments will serve as the basis for in-class discussion and so it is important that you complete them.
 
 The assignments will often consist of writing and running code. As such, all assignments will be handed out and turned in via Git repositories on the course's [GitHub Classroom](https://github.com/cmse822f20). The Git history of your assignments should demonstrate the originality of your work.
 You will also be graded on the _quality_ of your code.
@@ -76,22 +77,28 @@ Please read and refer to the course [coding standards](coding.md) for clear guid
 
 No rule of scholarly activity is more important than giving proper credit to the contributions of others. Although you are free to consult with classmates while working on assignments, you must explicitly acknowledge them by name and indicate their contributions in the final write-up.
 
-Many of the assignments will require writing code and routines that may be easily found in publicly-available numerical libraries.
+Many of the assignments will require writing code and routines parts of which may be easily found in publicly-available numerical libraries.
 Unless explicitly stated, you should assume that all code required in the assignments must be original.
 I.e., do not simply use off-the-shelf code.
 The point of the assignments is to give _you_ practice in writing scientific software.
 
-### In-class work, attendance, and extra credit
+### Group Projects
 
-Class periods will frequently be used for formal discussion of the course material and for in-class homeworks. It is, therefore, very important that you show up, if you can. If you are unable to participate in virtual class meetings, they will be recorded for you to review later. There will often be in-class quizzes to check your understanding of the assigned material. These quizzes will count for extra credit toward your final grade. In order to receive the full amount of extra credit, you will only need to respond correctly to 80% of the questions. There will be no make-up extra credit of any kind.
+Over the course of the semester, you will complete 6 group projects. Collaboration is a key element of science and, as such, these projects are intended to develop both your knowledge of parallel computing and your collaborative skills. These projects will consist primarily of developing and testing parallel code. You will be expected to use GitHub to manage your collaborative code development.
 
-### Project
+### In-class Quizzes
 
-In the latter part of the course, you will complete a [longer project](projects.md) in which you will develop and test a highly-parallel code.
+There will be in-class quizzes on roughly a weekly basis to check your understanding of the material covered by the pre-class assignments. 
+Your 2 lowest quiz scores will be dropped from your final grade.
+There will be NO make-ups allowed for missed quizzes.
+Quizzes will not require an entire class period and will delivered at the end of class with ample time to complete them. 
+
+### Final Project
+
+In the latter part of the course, you will complete a [longer project](projects.md) individually in which you will develop and test a highly-parallel code.
 You will choose a project from the list that will be available on the course [projects page](projects.md).
-At the culmination of the project, you will prepare a recorded talk about your work.
-You will also write, in a professional style, detailed code documentation describing your work.
-Your project will be peer-reviewed by your classmates.
+At the culmination of the project, you will prepare, in a professional style, a detailed report describing your work.
+You will also be expected to submit your code and versioning history via GitHub.
 
 ### Final exam
 
@@ -106,16 +113,11 @@ For those of you requiring it, your subject exam score will be your final course
 
 The weights for the course grade are as follows.
 
-Category      |                           | %
---------------|---------------------------|----
-Pre-class assignments                   | | 10%
-Homework assignments                    | | 50%
-In-class quizzes (extra credit)         | | (+5%)
-Project, distributed as follows:        | | 40%
- | code                                   | 15%
- | documentation                          | 15%
- | talk video                             | 5%
- | peer reviews                           | 5%
+Category      | %
+--------------|----
+Group Projects      | 60%
+In-class quizzes    | 20%
+Final Project       | 20%
 
 The final course grade will be assigned based on the following scale.
 
@@ -166,34 +168,3 @@ As members of a learning community, students are expected to respect the intelle
 4. Students may not post the recordings or other course materials online or distribute them to anyone not enrolled in the class without the advance written permission of the course instructor and, if applicable, any students whose voice or image is included in the recordings.
 5. Any student violating the conditions described above may face academic disciplinary sanctions.
 
-### MSU Community Compact regarding COVID-19: 
-
-The novel coronavirus, which causes the disease COVID-19, has been declared a worldwide pandemic. The COVID-19 virus is extremely contagious and is believed to spread mainly from person-to-person contact. The COVID-19 pandemic represents an unprecedented public health crisis that has impacted every facet of life, including the classroom environment. As a result, significant changes in how we conduct in-person classes must be made. This section of the syllabus discusses the policies and procedures we will use in class.
-
-This class abides by all principles, guidelines, and requirements detailed in the [MSU Community Compact](https://msu.edu/together-we-will/msu-community-compact/?utm_source=reopening-email&utm_medium=email&utm_campaign=faculty-staff). Specifically, all participants in the class will adhere to the following:
-
-**Face coverings.** Face coverings must be worn by everyone (including all faculty, staff, students, vendors, and visitors) indoors and outdoors while on property owned or governed by MSU and while participating in MSU-related or MSU-sponsored activities. Thus, unless you are unable to tolerate a face covering for medical reasons you must wear a face covering inside and outside of class. This face covering must cover your mouth and nose. 
-
-**Physical distancing.** We will be practicing physical distancing in the classroom. Thus, all students should maintain at least six feet distance between themselves and others (excluding those with whom they live). This applies to all aspects of the classroom setting, including seating arrangements, informal conversations, and dialogue between faculty and students.
-Personal Hygiene. All students must maintain proper hygiene and health practices, including:
-- Washing hands frequently with soap and water or, if soap is unavailable, using hand sanitizer with at least 60% alcohol
-- Routinely cleaning and sanitizing living spaces and/or workspace
-- Using the bend of the elbow or shoulder to shield a cough or sneeze
-- Refraining from shaking hands
-
-**Adherence to Signage and Instructions.** Students will (a) look for instructional signs posted by MSU or public health authorities, (b) observe instructions from MSU or public health authorities that are emailed to my “msu.edu” account, and (c) follow those instructions.
-
-**Self-Monitoring.** Students will self-monitor for flu-like symptoms (for example, cough, shortness of breath, difficulty breathing, fever, sore throat or loss of taste or smell). If a student experiences any flu-like symptoms, they will stay home and contact a health care provider to determine what steps should be taken.
-
-**Exposure to COVID-19.** If a student is exposed to someone who is ill or has tested positive for the COVID-19 virus, they will stay home, contact a health care provider and follow all public health recommendations.
-
-**Compliance and reporting.** Those who come to MSU facilities must commit to the personal responsibility necessary for us to remain as safe as possible, including following the specific guidelines outlined in this syllabus and provided by MSU more broadly (see below). There may be times when action will be necessary to reinforce expectations. **If you do not wear appropriate face coverings (see MSU’s guidelines), do not wear your face covering appropriately (i.e., over your mouth and nose), or do not adhere to physical distancing guidelines (i.e., six feet apart), you will be asked to correct the situation or leave the facility.** In addition, MSU will utilize the processes already in place to respond to any issues of noncompliance with standards established for the health and safety of our community. For classroom disruptions or issues, the responses and processes that have been used previously remain the first line of action. If necessary, the student conduct system will be the avenue used to adjudicate student disciplinary situations. 
-
-**Additional information.** See <https://msu.edu/together-we-will/keeping-spartans-safe/> for details about these new policies and procedures and see <https://ehs.msu.edu/_assets/docs/fact-sheets/cloth-face-covering-fact-sheet.pdf> for more details about the cloth face coverings guidelines.
-
-**Instructor Illness.**
-In the event of instructor illness, another CMSE instructor will fill in as quickly as possible to minimize the possible disruption to the course.
-
-**Student Illness.**
-In the event you become ill and may need to take an extended leave of absence, please see 
-<https://deanofstudents.msu.edu/medical-leave> and <https://reg.msu.edu/AcademicPrograms/Print.aspx?Section=443>
