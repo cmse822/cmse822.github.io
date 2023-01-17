@@ -13,8 +13,8 @@ Date  | Topic                      | Pre-class |  Notes
 1/10   | Introduction to the course | [PCA 0](assignments/pca0.md) |  
 1/12   | GitHub/Single-processor computing | [PCA 1](assignments/pca1.md)  |
 1/17  | Single-processor computing | [PCA 2](assignments/pca2.md) | 
-1/19  | Single-processor review |  |  
-1/24  | Parallel computing theory  |  | Project 1 due
+1/19  | Single-processor review | [PCA 3](assignments/pca3.md) |  Quiz 1
+1/24  | Parallel computing theory  | [PCA 4](assignments/pca4.md) | [Project 1](assignments/proj1.md) due
 1/26  | Parallel programming       |  | 
 1/31  | Network Topologies |   
 2/2  | The Seven Dwarfs           |  | 
@@ -25,10 +25,10 @@ Date  | Topic                      | Pre-class |  Notes
 2/21 | Point-to-point communication |  | Project 3 due  
 2/23 | Data types, communicators    |  | 
 2/28 | Getting started with OpenMP  |  |
-3/2 | OpenMP, regions, loops | | Final project topics
+3/2 | OpenMP, regions, loops | | 
 3/7 | Spring Break  | | |
 3/9 | Spring Break  | | |
-3/14 | Worksharing, thread data, reductions |  | |
+3/14 | Worksharing, thread data, reductions |  | Final project topics
 3/16  | Synchronization, tasks |   | Project 4 due
 3/21  | One-sided communication |  |
 3/23 | I/O, HDF5 |  |

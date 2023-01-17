@@ -1,4 +1,4 @@
-# Pre-class Assignment 4, due 9/22
+# Pre-class Assignment 4, due 1/24
 
 ## Reading
 
@@ -12,7 +12,3 @@ Read sections 2.6 of [High-Performance Scientific Computing](../assets/EijkhoutI
 
 1. Compare and contrast shared memory parallelism and distributed memory parallelism. Give examples of programming models that use either of these approaches.
 2. Give a practical example of each of the following collective operations: reduction, broadcast, gather, scatter.
-
-## What to turn-in
-
-Commit your answers to the questions, as a plain text, markdown document, or pdf to your assignment repo _before the start of class_.

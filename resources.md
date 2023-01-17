@@ -5,6 +5,11 @@ title: Resources
 
 # Resources
 
+## Course-specific Resources
+
+- [Coding Guidelines](coding.md)
+- [Group Work Guidelines](groupRules.md)
+  
 ## Tutorial on using HPCC 
 
 - [HPCC MSU Tutorial](HPCC_MSU_Tutorial.md)
