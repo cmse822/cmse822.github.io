@@ -12,10 +12,10 @@ Date  | Topic                      | Pre-class |  Notes
 ------|----------------------------|-----------|------
 1/10   | Introduction to the course | [PCA 0](assignments/pca0.md) |  
 1/12   | GitHub/Single-processor computing | [PCA 1](assignments/pca1.md)  |
-1/17  | Single-processor computing | [PCA 2](assignments/pca2.md) | 
-1/19  | Single-processor review | [PCA 3](assignments/pca3.md) |  Quiz 1
-1/24  | Parallel computing theory  | [PCA 4](assignments/pca4.md) | [Project 1](assignments/proj1.md) due
-1/26  | Parallel programming       |  | 
+1/17  | [Single-processor computing](assets/Lecture2.pdf) | [PCA 2](assignments/pca2.md) | 
+1/19  | Single-processor review | [PCA 3](assignments/pca3.md) |  
+1/24  | Parallel computing theory  |  | [Project 1](assignments/proj1.md) due, Quiz 1
+1/26  | Parallel programming       | [PCA 4](assignments/pca4.md) | 
 1/31  | Network Topologies |   
 2/2  | The Seven Dwarfs           |  | 
 2/7  | Intro to MPI, functional parallelism   | | Project 2 due
