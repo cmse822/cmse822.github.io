@@ -24,6 +24,7 @@ Associate Professor
 Department of Physics and Astronomy  
 Department of Computational Mathematics, Science, and Engineering  
 Facility for Rare Isotope Beams  
+Office: BPS 3260
 Office hours: Tu/Th 1-3:30 pm; [Bookings appointment](https://tinyurl.com/4uen8952) _required_  
 Zoom: [msu.zoom.us/my/scouch](http://msu.zoom.us/my/scouch)  
 [scouch@msu.edu](mailto:scouch@msu.edu)  
