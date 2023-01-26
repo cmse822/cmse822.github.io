@@ -10,12 +10,12 @@ Topic titles link to the slides for each class.
 
 Date  | Topic                      | Pre-class |  Notes
 ------|----------------------------|-----------|------
-1/10   | Introduction to the course | [PCA 0](assignments/pca0.md) |  
-1/12   | GitHub/Single-processor computing | [PCA 1](assignments/pca1.md)  |
+1/10   | [Introduction to the course](assets/Lecture0.pdf) | [PCA 0](assignments/pca0.md) |  
+1/12   | [GitHub/Single-processor computing](assets/Lecture1.pdf) | [PCA 1](assignments/pca1.md)  |
 1/17  | [Single-processor computing](assets/Lecture2.pdf) | [PCA 2](assignments/pca2.md) | 
-1/19  | Single-processor review | [PCA 3](assignments/pca3.md) |  
+1/19  | [Single-processor review](assets/Lecture3.pdf) | [PCA 3](assignments/pca3.md) |  
 1/24  | Project work  |  | [Project 1](assignments/proj1.md) due, Quiz 1
-1/26  | Parallel computing theory       | [PCA 4](assignments/pca4.md) | 
+1/26  | [Parallel computing theory](assets/Lecture4.pdf)       | [PCA 4](assignments/pca4.md) | 
 1/31  | Parallel programming  |   [PCA 5](assignments/pca5.md)
 2/2  | Network Topologies/The Seven Dwarfs           |  | Quiz 2
 2/7  | Intro to MPI, functional parallelism   | | 
