@@ -17,7 +17,7 @@ title: Resources
 ## Textbooks
 
 - [Intro to High-Performance Scientific Computing](assets/EijkhoutIntroToHPC2020.pdf)
-- [Parallel Programming in MPI and OpenMP](assets/EijkhoutParComp.pdf)
+- [Parallel Programming in MPI and OpenMP](assets/EijkhoutParallelProgramming.pdf)
 
 ## Basic scientific computing
 

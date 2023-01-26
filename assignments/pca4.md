@@ -1,4 +1,4 @@
-# Pre-class Assignment 4, due 1/24
+# Pre-class Assignment 4
 
 ## Reading
 

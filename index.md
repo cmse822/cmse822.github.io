@@ -24,7 +24,7 @@ Associate Professor
 Department of Physics and Astronomy  
 Department of Computational Mathematics, Science, and Engineering  
 Facility for Rare Isotope Beams  
-Office: BPS 3260
+Office: 3260 BPS  
 Office hours: Tu/Th 1-3:30 pm; [Bookings appointment](https://tinyurl.com/4uen8952) _required_  
 Zoom: [msu.zoom.us/my/scouch](http://msu.zoom.us/my/scouch)  
 [scouch@msu.edu](mailto:scouch@msu.edu)  
@@ -54,7 +54,7 @@ You are also expected to check your `@msu.edu` email account as communication ab
 
 ### Text book and references
 
-The two primary textbooks for this course are [High Performance Scientific Computing](https://bitbucket.org/VictorEijkhout/hpc-book-and-course) and [Parallel Programming in Science and Engineering](https://bitbucket.org/VictorEijkhout/parallel-computing-book/src), both by Victor Eijkhout.
+The two primary textbooks for this course are [High Performance Scientific Computing](assets/EijkhoutIntroToHPC2020.pdf) and [Parallel Programming in Science and Engineering](assets/EijkhoutParallelProgramming.pdf), both by Victor Eijkhout.
 Both of these texts are open-source and freely-available from the author.
 Supplementary reading and reference material is available on the course webpage under [Resources](resources.md).
 

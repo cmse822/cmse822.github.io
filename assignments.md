@@ -5,11 +5,19 @@ title: Assignments
 
 # Assignments
 
+On this page are the class assignments, including pre-class assignments (PCAs) and group projects. For due dates, see the [course schedule](schedule.md).
 ## Pre-class
 
-- [PCA 0](assignments/pca0.md), due 1/10  
-- [PCA 1](assignments/pca1.md), due 1/12
-- [PCA 2](assignments/pca2.md), due 1/17  
+- [PCA 0](assignments/pca0.md)
+- [PCA 1](assignments/pca1.md)
+- [PCA 2](assignments/pca2.md)
+- [PCA 3](assignments/pca3.md)
+- [PCA 4](assignments/pca4.md)
+
+## Group Projects
+
+- [Project 1](assignments/proj1.md)
+- [Project 2](assignments/proj2.md)
   
 <!--
 - [PCA 3](assignments/pca3.md), due 9/17
