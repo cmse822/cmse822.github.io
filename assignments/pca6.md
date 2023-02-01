@@ -1,8 +1,8 @@
-# Pre-class Assignment 6, due 9/29
+# Pre-class Assignment 6
 
 ## Reading
 
-Read sections 1, 2, and 3 of [The Landscape of Parallel Computing Research: A View from Berkeley](../assets/EECS-2006-183.pdf).
+Read sections 2.7 of [High-Performance Scientific Computing](../assets/EijkhoutIntroToHPC2020.pdf).
 
 ## Review
 
@@ -10,8 +10,8 @@ Read sections 1, 2, and 3 of [The Landscape of Parallel Computing Research: A Vi
 
 ## Questions
 
-1. Briefly describe your own research problem (or one that interests you if you have not yet settled on a topic) in terms of the 13 dwarfs described in the reading.
-
-## What to turn-in
-
-Commit your answers to the questions, as a plain text, markdown document, or pdf to your assignment repo _before the start of class_.
+1. Define _bisection width_.
+2. Define the _diameter_ of a network.
+3. Do a little internet searching and determine what type of network the following supercomputers use:
+    - Summit at Oak Ridge Leadership Computing Facility
+    - Aurora at Argonne Leadership Computing Facility
