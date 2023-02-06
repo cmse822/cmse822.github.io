@@ -15,6 +15,7 @@ On this page are the class assignments, including pre-class assignments (PCAs) a
 - [PCA 4](assignments/pca4.md)
 - [PCA 5](assignments/pca5.md)
 - [PCA 6](assignments/pca6.md)
+- [PCA 7](assignments/pca7.md)
 
 ## Group Projects
 

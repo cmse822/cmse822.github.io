@@ -17,7 +17,7 @@ Date  | Topic                      | Pre-class |  Notes
 1/24  | Project work  |  | [Project 1](assignments/proj1.md) due, Quiz 1
 1/26  | [Parallel computing theory](assets/Lecture4.pdf)       | [PCA 4](assignments/pca4.md) | 
 1/31  | [Intro to MPI, functional parallelism](assets/Lecture5.pdf)  |   [PCA 5](assignments/pca5.md)
-2/2  | MPI Collectives          |  | Quiz 2
+2/2  | [MPI Collectives](assets/Lecture6.pdf)          |  | Quiz 2
 2/7  | Network Topologies    | [PCA 6](assignments/pca6.md) | 
 2/9  | The Seven Dwarfs | [PCA 7](assignments/pca7.md) | [Project 2](assignments/proj2.md) due
 2/14  | Collective communication |  | 
