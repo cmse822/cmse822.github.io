@@ -20,25 +20,25 @@ Date  | Topic                      | Pre-class |  Notes
 2/2  | [MPI Collectives](assets/Lecture6.pdf)          |  | Quiz 2
 2/7  | [Network Topologies](assets/Lecture7.pdf)    | [PCA 6](assignments/pca6.md) | 
 2/9  | The Seven Dwarfs | [PCA 7](assignments/pca7.md) | [Project 2](assignments/proj2.md) due
-2/14  | Collective communication |  | 
-2/16 | Point-to-point communication | | 
-2/21 | Point-to-point communication |  | 
-2/23 | Data types, communicators    |  | Project 3 due  
-2/28 | Getting started with OpenMP  |  |
-3/2 | OpenMP, regions, loops | | 
-3/7 | Spring Break  | | |
-3/9 | Spring Break  | | |
-3/14 | Worksharing, thread data, reductions |  | Final project topics
-3/16  | Synchronization, tasks |   | Project 4 due
-3/21  | One-sided communication |  |
-3/23 | I/O, HDF5 |  |
-3/28 | Affinity, memory models, shared memory MPI | | 
-3/30 | SIMD, OpenMP review   | | Project 5 due
-4/4 | OpenMP 4.5 GPU   | | 
-4/6 | More on GPUs | |  
-4/11 | TBD    | | 
-4/13  | TBD        |  | Project 6 due
-4/18  | TBD       | | 
-4/20 | TBD          | | 
-4/25 | TBD | | 
-4/27 | TBD | |  Final Project due 
+2/14 | 
+2/16 | 
+2/21 | 
+2/23 | Collective communication 2 | [PCA 8](assignments/pca8.md)  | 
+2/28 | Point-to-point communication | [PCA 9](assignments/pca9.md) | 
+3/2 | Point-to-point; final projects discussion |  | 
+3/7 | **Spring Break**
+3/9 | **Spring Break**
+3/14 | Data types, communicators    |  | [Project 3](assignments/proj3.md) due  
+3/16 | Getting started with OpenMP  |  | Final project topics
+3/21 | OpenMP, regions, loops | | 
+3/23 | OpenMP  | | 
+3/28 | Hybrid parallelism  | | Project 4 due 
+3/30 | Worksharing, thread data, reductions |  | 
+4/4  | Synchronization, tasks | | 
+4/5  | One-sided communication |  |
+4/11 | I/O, HDF5 |  | Project 5 due
+4/13 | Affinity, memory models, shared memory MPI | | 
+4/18 | SIMD, OpenMP review   | | 
+4/20 | OpenMP 4.5 GPU   | | 
+4/25 | More on GPUs | |  Project 6 due
+4/27 | TBD    | | Final Project du

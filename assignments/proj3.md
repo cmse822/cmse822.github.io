@@ -1,43 +1,37 @@
-# Homework Project: MPI Ping-Pong Analysis
+# Project 3: MPI Ping-Pong and Ring Shift
 
 ## Background
 
-The ping-pong problem is a benchmark often used to evaluate the performance of message passing interfaces (MPI) in parallel computing. In this problem, two processes exchange messages back and forth a specified number of times, with each process sending a message and receiving a message alternately.
+The ping-pong problem is a benchmark often used to evaluate the performance of message passing interfaces (MPI) in parallel computing. In this problem, two processes exchange messages back and forth a specified number of times, with each process sending a message and receiving a message alternately. In the ping-pong, process `i` sends a message of size `m` to process `j`, then receives a message of size `m` back from `j`. The values of `i`, `j`, and `m` to use are given below.
 
-## Task
+The "ring shift" problem is similar to ping-pong. In the MPI ring shift, a group of processes is arranged in a ring, with each process holding a unique subset of a larger array of data. The goal is the shift the data elements by a specified number of positions around the ring, wrapping around the ends of the ring as necessary. 
+
+## Part 1: Blocking Ping-Pong
 
 Your task is to implement the ping-pong problem using MPI in C or C++ and analyze the behavior and performance of your code. Specifically, you should:
 
-1. Implement the ping-pong problem using MPI in C or C++. You should define the number of iterations and the size of the message to be exchanged.
-2. Measure the time taken to complete the ping-pong exchange for different message sizes and numbers of iterations. You should use the MPI_Wtime() function to obtain the time before and after the exchange and calculate the elapsed time.
-3. Record the total number of messages sent and received during the ping-pong exchange for each configuration.
-4. Plot the elapsed time as a function of the message size and the number of iterations.
-5. Analyze your results and discuss the impact of the message size and the number of iterations on the performance of the ping-pong exchange.
-6. Re-implemt using non-blocking sends and receives.
+1. Implement the ping-pong problem using MPI in C or C++. Use blocking `MPI_Send()` and `MPI_Recv()` calls. You should define the number of iterations and the size of the message to be exchanged.
+2. Measure the time taken to complete the ping-pong exchange for different message sizes. You should use the `MPI_Wtime()` function to obtain the time before and after the exchange and calculate the elapsed time. Vary the message size from 2 bytes to 4 kilobytes in powers of 2 (i.e., 2 bytes, 4 bytes, 8 bytes,..., 2048 bytes, 4096 bytes). For each message size, perform 100 iterations of the ping-pong to build up statistical significance.
+3. Record the total amount of data sent and received during the ping-pong exchange for each configuration.
+4. Repeat steps 2 and 3 but ensure that the 2 processes that are communicating reside on different physical hardware nodes on HPCC.
+5. Plot the average communication time of a single exchange (send and receive) as a function of message size for the two cases. Using this plot, estimate the _latency_ and _bandwidth_ for each case. Are they different? Explain your results.
+6. Analyze and discuss your results. Explain the behavior of the resulting curves.
 
-## Requirements
+## Part 2: Non-block Ping-Pong
 
-Your implementation should use the MPI_Send() and MPI_Recv() functions to exchange messages between the two processes. You should use the MPI_Comm_rank() and MPI_Comm_size() functions to identify the two processes and obtain the total number of processes.
+Repeat Part 1 using non-blocking MPI communication, i.e., using `MPI_Isend()` and `MPI_Irecv()`. You will need to include explicit process synchronization using, e.g., `MPI_Wait()` calls. Compare the results to the blocking case.
 
-Your analysis should be presented in a report in PDF format, which should include:
+## Part 3: MPI Ring Shift
 
-- Introduction: brief description of the ping-pong problem and the purpose of the analysis.
-- Methodology: description of the implementation and the measurement methodology.
-- Results: tables and plots showing the elapsed time, the number of messages, and any other relevant metrics for each configuration tested.
-- Discussion: analysis of the results and discussion of the impact of the message size and the number of iterations on the performance of the ping-pong exchange.
-- Conclusion: summary of the main findings and future work.
+1. Implement the MPI ring shift in C or C++ for an arbitrary number of processes in the ring and arbitrary message size (i.e., number of elements per process). In your implementation, use `MPI_Sendrecv()` instead of separate `MPI_Send()` and `MPI_Recv()` calls.
+2. As in Parts 1 and 2, vary the message size from 2 bytes to 4 kb, in powers of 2. Also vary the number of processes used from 2 to `N`, in powers of 2, where `N` is sufficiently large that rank 0 and rank `N-1` are guaranteed to reside on separate nodes (`N` will depend on which cluster you are using on HPCC).
+3. Compute the bandwidth and latency, as above. Plot the bandwidth as a function of message size. Include separate lines for each number of processes used. 
+4. Analyze and discuss your results. Explain the behavior of the resulting curves.
 
-## Submission
+## Part 4: Non-blocking MPI Ring Shift
 
-You should submit your report in PDF format and your source code in a compressed file (zip or tar.gz) to the course instructor by the due date specified in the syllabus. Your source code should include a Makefile or other build instructions to compile and run your program. Your report should be well-written, organized, and free of errors. Your source code should be well-documented and easy to read.
+Repeat Part 3 but using non-blocking communication via `MPI_Isendrecv()`. Compare the results to the blocking case.
 
-## Grading
+## What to turn-in
 
-Your homework project will be graded based on the following criteria:
-
-- Correctness of the implementation (30%)
-- Quality of the analysis (40%)
-- Clarity and organization of the report (20%)
-- Quality and style of the source code (10%)
-
-Good luck!
+To your git project repo, commit your final working code for the above exercises and a concise write-up including all plots, and detailed responses to the questions posed concerning your results. 

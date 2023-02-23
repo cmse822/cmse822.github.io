@@ -16,12 +16,15 @@ On this page are the class assignments, including pre-class assignments (PCAs) a
 - [PCA 5](assignments/pca5.md)
 - [PCA 6](assignments/pca6.md)
 - [PCA 7](assignments/pca7.md)
-
+- [PCA 8](assignments/pca8.md)
+- [PCA 9](assignments/pca9.md)
+  
 ## Group Projects
 
 - [Project 1](assignments/proj1.md)
 - [Project 2](assignments/proj2.md)
-  
+- [Project 3](assignments/proj3.md)
+    
 <!--
 - [PCA 3](assignments/pca3.md), due 9/17
 - [PCA 4](assignments/pca4.md), due 9/22

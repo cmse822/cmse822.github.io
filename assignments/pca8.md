@@ -1,10 +1,10 @@
-# Pre-class Assignment 8, due 10/6
+# Pre-class Assignment 8
 
 ## Reading
 
 Read Sections 3.1 through 3.5 of [Parallel Programming for Science and Engineering](../assets/EijkhoutParallelProgramming.pdf).
 
-## Review
+<!-- ## Review
 
 1. In the `#questions` channel of the course Slack, post at least one question about the reading. If someone has already posted your question, you may instead "upvote" that question by reacting to it with a "thumbs up" or other appropriate reaction emoji. 
 
@@ -19,4 +19,4 @@ Complete the following review questions in Section 3.15 of [PPSE](../assets/Eijk
 
 ## What to turn-in
 
-Commit your write-up, including review and questions, as a plain text, markdown document, or pdf to your assignment repo _before the start of class_.
+Commit your write-up, including review and questions, as a plain text, markdown document, or pdf to your assignment repo _before the start of class_. -->
