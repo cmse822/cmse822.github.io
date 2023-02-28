@@ -6,6 +6,7 @@ title: Assignments
 # Assignments
 
 On this page are the class assignments, including pre-class assignments (PCAs) and group projects. For due dates, see the [course schedule](schedule.md).
+
 ## Pre-class
 
 - [PCA 0](assignments/pca0.md)
@@ -18,25 +19,21 @@ On this page are the class assignments, including pre-class assignments (PCAs) a
 - [PCA 7](assignments/pca7.md)
 - [PCA 8](assignments/pca8.md)
 - [PCA 9](assignments/pca9.md)
+- [PCA 10](assignments/pca10.md)
+- [PCA 11](assignments/pca11.md)
+- [PCA 12](assignments/pca12.md)
+- [PCA 13](assignments/pca13.md)
   
 ## Group Projects
 
-- [Project 1](assignments/proj1.md)
-- [Project 2](assignments/proj2.md)
-- [Project 3](assignments/proj3.md)
+- [Project 1](assignments/proj1.md): Memory Hierarchies
+- [Project 2](assignments/proj2.md): Pi by MPI
+- [Project 3](assignments/proj3.md): Ping Pong and Ring Shift with MPI 
+- Project 4: OpenMP basics
+- Project 5: Hybrid OMP/MPI 
+- Project 6: OMP Offloading/GPU computing
     
 <!--
-- [PCA 3](assignments/pca3.md), due 9/17
-- [PCA 4](assignments/pca4.md), due 9/22
-- [PCA 5](assignments/pca5.md), due 9/24
-- [PCA 6](assignments/pca6.md), due 9/29
-- [PCA 7](assignments/pca7.md), due 10/1
-- [PCA 8](assignments/pca8.md), due 10/6
-- [PCA 9](assignments/pca9.md), due 10/8
-- [PCA 10](assignments/pca10.md), due 10/13
-- [PCA 11](assignments/pca11.md), due 10/15
-- [PCA 12](assignments/pca12.md), due 10/22
-- [PCA 13](assignments/pca13.md), due 10/27
 - [PCA 14](assignments/pca14.md), due 10/29
 - [PCA 15](assignments/pca15.md), due 11/5
 - [PCA 16](assignments/pca16.md), due 11/10

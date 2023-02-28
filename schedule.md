@@ -25,12 +25,12 @@ Date  | Topic                      | Pre-class |  Notes
 2/21 | 
 2/23 | Collective communication 2 | [PCA 8](assignments/pca8.md)  | 
 2/28 | Point-to-point communication | [PCA 9](assignments/pca9.md) | 
-3/2 | Point-to-point; final projects discussion |  | 
+3/2 | Point-to-point; final projects discussion | [PCA 10](assignments/pca10.md) | 
 3/7 | **Spring Break**
 3/9 | **Spring Break**
-3/14 | Data types, communicators    |  | [Project 3](assignments/proj3.md) due  
-3/16 | Getting started with OpenMP  |  | Final project topics
-3/21 | OpenMP, regions, loops | | 
+3/14 | Data types, communicators    | [PCA 11](assignments/pca11.md) | [Project 3](assignments/proj3.md) due  
+3/16 | Getting started with OpenMP  | [PCA 12](assignments/pca12.md) | Final project topics
+3/21 | OpenMP, regions, loops | [PCA 13](assignments/pca13.md) | 
 3/23 | OpenMP  | | 
 3/28 | Hybrid parallelism  | | Project 4 due 
 3/30 | Worksharing, thread data, reductions |  | 
