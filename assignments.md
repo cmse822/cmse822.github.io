@@ -29,8 +29,8 @@ On this page are the class assignments, including pre-class assignments (PCAs) a
 - [Project 1](assignments/proj1.md): Memory Hierarchies
 - [Project 2](assignments/proj2.md): Pi by MPI
 - [Project 3](assignments/proj3.md): Ping Pong and Ring Shift with MPI 
-- Project 4: OpenMP basics
-- Project 5: Hybrid OMP/MPI 
+- [Project 4](assignments/proj4.md): OpenMP basics and Hybrid MPI/OMP
+- [Project 5](assignments/proj5.md): Advanced MPI
 - Project 6: OMP Offloading/GPU computing
     
 <!--
