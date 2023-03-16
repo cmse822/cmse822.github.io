@@ -29,7 +29,7 @@ Date  | Topic                      | Pre-class |  Notes
 3/7 | **Spring Break**
 3/9 | **Spring Break**
 3/14 | Data types, communicators    | [PCA 11](assignments/pca11.md) | [Project 3](assignments/proj3.md) due  
-3/16 | Getting started with OpenMP  | [PCA 12](assignments/pca12.md) | Final project topics
+3/16 | [Getting started with OpenMP](assets/Lecture14.pdf)  | [PCA 12](assignments/pca12.md) | Final project topics
 3/21 | OpenMP, regions, loops | [PCA 13](assignments/pca13.md) | 
 3/23 | OpenMP  | | 
 3/28 | Hybrid parallelism  | | [Project 4](assignments/proj4.md) due 
