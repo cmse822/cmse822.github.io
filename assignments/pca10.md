@@ -1,4 +1,4 @@
-# Pre-class Assignment 10, due 10/13
+# Pre-class Assignment 10
 
 ## Reading
 

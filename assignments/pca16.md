@@ -1,10 +1,10 @@
-# Pre-class Assignment 16, due 11/10
+# Pre-class Assignment 16
 
 ## Reading
 
 Read Chapter 8 of [Parallel Programming for Science and Engineering](../assets/EijkhoutParallelProgramming.pdf). 
 
-## Review
+<!-- ## Review
 
 1. In the `#questions` channel of the course Slack, post at least one question about the reading. If someone has already posted your question, you may instead "upvote" that question by reacting to it with a "thumbs up" or other appropriate reaction emoji. 
 
@@ -17,4 +17,4 @@ Read Chapter 8 of [Parallel Programming for Science and Engineering](../assets/E
 
 ## What to turn-in
 
-Commit your code and answers to the exercises as a pdf to your assignment repo _before the start of class_.
+Commit your code and answers to the exercises as a pdf to your assignment repo _before the start of class_. -->

@@ -30,15 +30,15 @@ Date  | Topic                      | Pre-class |  Notes
 3/9 | **Spring Break**
 3/14 | Data types, communicators    | [PCA 11](assignments/pca11.md) | [Project 3](assignments/proj3.md) due  
 3/16 | [Getting started with OpenMP](assets/Lecture14.pdf)  | [PCA 12](assignments/pca12.md) | Final project topics
-3/21 | OpenMP, regions, loops | [PCA 13](assignments/pca13.md) | 
-3/23 | OpenMP  | | 
-3/28 | Hybrid parallelism  | | [Project 4](assignments/proj4.md) due 
-3/30 | Worksharing, thread data, reductions |  | 
-4/4  | Synchronization, tasks | | 
-4/5  | One-sided communication |  |
-4/11 | I/O, HDF5 |  | [Project 5](assignments/proj5.md) due
-4/13 | Affinity, memory models, shared memory MPI | | 
-4/18 | SIMD, OpenMP review   | | 
-4/20 | OpenMP 4.5 GPU   | | 
+3/21 | [OpenMP, regions, loops](assets/Lecture16.pdf) | [PCA 13](assignments/pca13.md) | 
+3/23 | Hybrid parallelism  | | 
+3/28 | Work day   | | [Project 4](assignments/proj4.md) due 
+3/30 | Worksharing, thread data, reductions | [PCA 14](assignments/pca14.md) | 
+4/4  | Synchronization, tasks | [PCA 15](assignments/pca15.md) | 
+4/5  | One-sided communication | [PCA 16](assignments/pca16.md) |
+4/11 | I/O, HDF5 | [PCA 17](assignments/pca17.md) | [Project 5](assignments/proj5.md) due
+4/13 | Affinity, memory models, shared memory MPI | [PCA 18](assignments/pca18.md) | 
+4/18 | SIMD, OpenMP review   | [PCA 19](assignments/pca19.md) | 
+4/20 | OpenMP 4.5 GPU   |[PCA 20](assignments/pca20.md) | 
 4/25 | More on GPUs | |  Project 6 due
 4/27 | TBD    | | Final Project due

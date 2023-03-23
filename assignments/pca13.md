@@ -1,4 +1,4 @@
-# Pre-class Assignment 13, due 10/27
+# Pre-class Assignment 13
 
 ## Reading
 
