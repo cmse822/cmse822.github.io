@@ -40,5 +40,5 @@ Date  | Topic                      | Pre-class |  Notes
 4/13 | Affinity, memory models, shared memory MPI | [PCA 18](assignments/pca18.md) | 
 4/18 | SIMD, OpenMP review   | [PCA 19](assignments/pca19.md) | 
 4/20 | OpenMP 4.5 GPU   |[PCA 20](assignments/pca20.md) | 
-4/25 | More on GPUs | |  Project 6 due
+4/25 | More on GPUs | |  [Project 6](assignments/proj6.md) due
 4/27 | TBD    | | Final Project due
