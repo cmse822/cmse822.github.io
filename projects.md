@@ -14,6 +14,8 @@ You will complete one of the parallel programming and analysis projects below. F
 
 Note that for many of these project topics, parallel code can easily be obtained online. _You must develop your own original code to address your problem_. Researching your problem on the web is expected and encouraged, but I recommend you avoid looking directly at someone's code for inspiration.
 
+Final project reports will be graded based on [this rubric](assets/projectRubric.pdf).
+
 ### 1. Heat Equation
 
 See Section 31.3 of [HPSC](assets/EijkhoutIntroToHPC2020.pdf).
