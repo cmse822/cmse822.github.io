@@ -9,7 +9,7 @@ On this page are the class assignments, including pre-class assignments (PCAs) a
 
 ## Pre-class
 
-- [PCA 0](assignments/pca0.md)
+<!-- - [PCA 0](assignments/pca0.md)
 - [PCA 1](assignments/pca1.md)
 - [PCA 2](assignments/pca2.md)
 - [PCA 3](assignments/pca3.md)
@@ -22,38 +22,13 @@ On this page are the class assignments, including pre-class assignments (PCAs) a
 - [PCA 10](assignments/pca10.md)
 - [PCA 11](assignments/pca11.md)
 - [PCA 12](assignments/pca12.md)
-- [PCA 13](assignments/pca13.md)
+- [PCA 13](assignments/pca13.md) -->
   
 ## Group Projects
 
-- [Project 1](assignments/proj1.md): Memory Hierarchies
+<!-- - [Project 1](assignments/proj1.md): Memory Hierarchies
 - [Project 2](assignments/proj2.md): Pi by MPI
 - [Project 3](assignments/proj3.md): Ping Pong and Ring Shift with MPI 
 - [Project 4](assignments/proj4.md): OpenMP basics and Hybrid MPI/OMP
 - [Project 5](assignments/proj5.md): Advanced MPI
-- [Project 6](assignments/proj6.md): OMP Offloading/GPU computing
-    
-<!--
-- [PCA 14](assignments/pca14.md), due 10/29
-- [PCA 15](assignments/pca15.md), due 11/5
-- [PCA 16](assignments/pca16.md), due 11/10
-- [PCA 17](assignments/pca17.md), due 11/12
-- [PCA 18](assignments/pca18.md), due 11/17
-- [PCA 19](assignments/pca19.md), due 11/19
-- [PCA 20](assignments/pca20.md), due 11/24
-- [PCA 21](assignments/pca21.md), due 12/3
-
-## Homework
-
-- [HW 1](assignments/hw1.md), due 9/15
-- [HW 2](assignments/hw2.md), due 9/22
-- [HW 3](assignments/hw3.md), due 9/29 
-- [HW 4](assignments/hw4.md), due 10/6
-- [HW 5](assignments/hw5.md), due 10/13
-- [HW 6](assignments/hw6.md), due 10/20
-- [HW 7](assignments/hw7.md), due 10/27
-- [HW 8](assignments/hw8.md), due 11/5
-- [HW 9](assignments/hw9.md), due 11/17
-- [HW 10](assignments/hw10.md), nothing to turn in!
-- [HW 11](assignments/hw11.md), due 12/1
-       -->
+- [Project 6](assignments/proj6.md): OMP Offloading/GPU computing -->
