@@ -88,7 +88,7 @@ Over the course of the semester, you will complete 6 group projects. Collaborati
 
 #### Group Participation
 
-You will be graded on your participation in the group. To facilitate this, you will complete an assessment of each of your group members contributions to each of the group projects. These assessments will be confidential and used solely by the instructor to ensure appropriate and equitable participation in group work is maintained throughout the course. Your group participation grade will count for 10% of your final grade.
+You will be graded on your participation in the group. To facilitate this, you will complete an assessment of each of your group members contributions to each of the group projects. These assessments will be confidential and used solely by the instructor to ensure that appropriate and equitable participation in group work is maintained throughout the course. Your group participation grade will count for 10% of your final grade.
 
 #### Project Peer Review
 
