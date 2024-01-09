@@ -1,6 +1,6 @@
 # Syllabus - CMSE/CSE 822
 
-## Spring 2024, Michigan State University
+## Spring 2023, Michigan State University
 
 This graduate-level course covers the practical and theoretical aspects of  high-performance parallel computing in science and engineering.
 
@@ -25,20 +25,21 @@ Department of Physics and Astronomy
 Department of Computational Mathematics, Science, and Engineering  
 Facility for Rare Isotope Beams  
 Office: 3260 BPS  
-Office hours: _by appointment_  
+Office hours: Tu/Th 1-3:30 pm; [Bookings appointment](https://tinyurl.com/4uen8952) _required_  
 Zoom: [msu.zoom.us/my/scouch](http://msu.zoom.us/my/scouch)  
 [scouch@msu.edu](mailto:scouch@msu.edu)  
 [www.pa.msu.edu/~couch](http://www.pa.msu.edu/~couch)
 
 **Teaching Assistant/Grader:**  
-Vicente Amado   
-Office hours: Tuesday, 1-3 pm, 2504 EGR  
-[amadovic@msu.edu](mailto:amadovic@msu.edu)
+Nathan Haut  
+Office hours: Wednesdays, 2:30-4 pm, 2504 EGR  
+[hautnath@msu.edu](mailto:hautnath@msu.edu)
 
 ### Class meetings and office hours
 
 The class meets Tuesdays and Thursdays from 10:20 am to 11:40 am Eastern in EGR 2400. 
 Class meetings are meant to be highly interactive and you are expected to attend if possible.
+In the occasion that you are unable to attend in-person, you may join via Zoom at [this link](https://msu.zoom.us/j/96421232503?pwd=TXJ2WjFoeHFSZUhZSDJhNGVMeFRTQT09). You will be required to log in to Zoom _using your MSU NetID_. Additionally, there is a password which will be sent to you via email. 
 
 ### Communication and Slack
 
@@ -65,7 +66,7 @@ Supplementary reading and reference material is available on the course webpage 
 
 ### Use of HPCC
 
-The course assignments and projects will utilize the MSU campus High Performance Computing Center (HPCC). All students must have an account on the HPCC. If you don't already have one, one will be made for you at the start of this course.
+The course assignments and projects will utilize the MSU campus High Performance Computing Center (HPCC). All students must obtain an account on the HPCC. The best way to get an HPCC is through your research mentor. If this is not feasible, talk to the course instructor about getting an account.
 
 ### Pre-class Assignments
 
@@ -84,15 +85,14 @@ The point of the assignments is to give _you_ practice in writing scientific sof
 
 ### Group Projects
 
-Over the course of the semester, you will complete 6 group projects. Collaboration is a key element of science and, as such, these projects are intended to develop both your knowledge of parallel computing and your collaborative skills. These projects will consist primarily of developing and testing parallel code. You will be expected to use GitHub to manage your collaborative code development. Each group will submit one single project report and code repository. The git history of these projects should reflect contributions from each group member. Each of the six projects is worth 10% of your final grade. 
+Over the course of the semester, you will complete 6 group projects. Collaboration is a key element of science and, as such, these projects are intended to develop both your knowledge of parallel computing and your collaborative skills. These projects will consist primarily of developing and testing parallel code. You will be expected to use GitHub to manage your collaborative code development.
 
-#### Group Participation
+### In-class Quizzes
 
-You will be graded on your participation in the group. To facilitate this, you will complete an assessment of each of your group members contributions to each of the group projects. These assessments will be confidential and used solely by the instructor to ensure that appropriate and equitable participation in group work is maintained throughout the course. Your group participation grade will count for 10% of your final grade.
-
-#### Project Peer Review
-
-For each of the six group projects, you will complete a peer review of another group's project. Your reviews will be based on a rubric provided by the instructor. These reviews are meant to provide both you and your peers with substantive, constructive feedback on your work. As such, you will be expected to provide quality, constructive feedback. The instructors will review all peer review reports to ensure appropriateness and the collated peer review feedback will be passed back to the respective groups anonymously. You will be graded on the quality and timeliness of your peer reviews. This will account for 10% of your final grade.
+There will be in-class quizzes on roughly a weekly basis to check your understanding of the material covered by the pre-class assignments. 
+Your 2 lowest quiz scores will be dropped from your final grade.
+There will be NO make-ups allowed for missed quizzes.
+Quizzes will not require an entire class period and will delivered at the end of class with ample time to complete them. 
 
 ### Final Project
 
@@ -101,13 +101,9 @@ You will choose a project from the list that will be available on the course [pr
 At the culmination of the project, you will prepare, in a professional style, a detailed report describing your work.
 You will also be expected to submit your code and versioning history via GitHub.
 
-#### Final Project Poster
-
-In addition to your final project code and report, you will produce a professional-quality conference poster about your project. You will share this poster with your colleagues and classmates during a class poster session during the nominal final exam time for this course. 
-
 ### Final exam
 
-The final project will act as the final exam for this course. We will use the scheduled final exam time for our class poster session.
+The final project will act as the final exam for this course.
 
 ### CMSE Subject Exam in Parallel Computing
 
@@ -121,8 +117,7 @@ The weights for the course grade are as follows.
 Category      | %
 --------------|----
 Group Projects      | 60%
-Group Participation    | 10%
-Project Peer Reviews | 10%
+In-class quizzes    | 20%
 Final Project       | 20%
 
 The final course grade will be assigned based on the following scale.
