@@ -9,9 +9,8 @@ On this page are the class assignments, including pre-class assignments (PCAs) a
 
 ## Pre-class
 
-<!-- - [PCA 0](assignments/pca0.md)
 - [PCA 1](assignments/pca1.md)
-- [PCA 2](assignments/pca2.md)
+<!-- - [PCA 2](assignments/pca2.md)
 - [PCA 3](assignments/pca3.md)
 - [PCA 4](assignments/pca4.md)
 - [PCA 5](assignments/pca5.md)
