@@ -13,7 +13,7 @@ Topic titles link to the slides for each class.
 | 01/09 | [Introduction to the course](assets/Lecture0.pdf) |                              |                      |
 | 01/11 | GitHub/Single-processor computing                 | [PCA 1](assignments/pca1.md) |                      |
 | 01/16 | HPCC Tutorial                                     |                              |                      |
-| 01/18 | Single-processor computing                        |                              |                      |
+| 01/18 | Single-processor computing                        | [PCA 2](assignments/pca2.md) |                      |
 | 01/23 | Single-processor review                           |                              | Project 1 due        |
 | 01/25 | Parallel computing theory                         |                              |                      |
 | 01/30 | Parallel computing theory                         |                              |                      |
