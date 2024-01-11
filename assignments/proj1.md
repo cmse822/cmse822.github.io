@@ -1,6 +1,6 @@
 # Project 1: Memory Hierarchies and Performance of Serial Applications
 
-## Due: EOD, 23 January
+## Due: EOD, 24 January
 
 ## Learning goals
 
