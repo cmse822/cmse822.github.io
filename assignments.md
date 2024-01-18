@@ -11,7 +11,9 @@ On this page are the class assignments, including pre-class assignments (PCAs) a
 
 - [PCA 1](assignments/pca1.md)
 - [PCA 2](assignments/pca2.md)
-<!-- - [PCA 3](assignments/pca3.md)
+- [PCA 3](assignments/pca3.md)
+  
+<!-- 
 - [PCA 4](assignments/pca4.md)
 - [PCA 5](assignments/pca5.md)
 - [PCA 6](assignments/pca6.md)
@@ -26,6 +28,7 @@ On this page are the class assignments, including pre-class assignments (PCAs) a
 ## Group Projects
 
 - [Project 1](assignments/proj1.md): Memory Hierarchies
+  
 <!-- - [Project 2](assignments/proj2.md): Pi by MPI
 - [Project 3](assignments/proj3.md): Ping Pong and Ring Shift with MPI 
 - [Project 4](assignments/proj4.md): OpenMP basics and Hybrid MPI/OMP
