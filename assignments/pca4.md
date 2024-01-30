@@ -4,9 +4,6 @@
 
 Read sections 2.6 of [High-Performance Scientific Computing](../assets/EijkhoutIntroToHPC2020.pdf).
 
-## Review
-
-1. In the `#questions` channel of the course Slack, post at least one question about the reading. If someone has already posted your question, you may instead "upvote" that question by reacting to it with a "thumbs up" or other appropriate reaction emoji. 
 
 ## Questions
 
