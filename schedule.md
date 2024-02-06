@@ -11,15 +11,15 @@ Topic titles link to the slides for each class.
 | Date  | Topic                                                             | Pre-class                    | Notes                |
 | ----- | ----------------------------------------------------------------- | ---------------------------- | -------------------- |
 | 01/09 | [Introduction to the course](assets/Lecture0.pdf)                 |                              |                      |
-| 01/11 | GitHub/Single-processor computing                                 | [PCA 1](assignments/pca1.md) |                      |
+| 01/11 | [GitHub/Single-processor computing](assets/Lecture1.pdf)          | [PCA 1](assignments/pca1.md) |                      |
 | 01/16 | [HPCC Tutorial](assets/20240116-Introduction_to_the_MSU_HPCC.pdf) |                              |                      |
-| 01/18 | Single-processor computing                                        | [PCA 2](assignments/pca2.md) |                      |
-| 01/23 | Single-processor review                                           |                              |                      |
+| 01/18 | [Single-processor computing](assets/Lecture2.pdf)                 | [PCA 2](assignments/pca2.md) |                      |
+| 01/23 | [Single-processor review](assets/Lecture3.pdf)                    |                              |                      |
 | 01/25 | Parallel computing theory                                         | [PCA 3](assignments/pca3.md) |                      |
 | 01/30 | [Parallel computing theory](assets/Lecture4.pdf)                  |                              | Project 1 due        |
-| 02/01 | Intro to MPI, functional parallelism                              | [PCA 4](assignments/pca4.md) |                      |
+| 02/01 | [Intro to MPI](assets/Lecture5.pdf)                               | [PCA 4](assignments/pca4.md) |                      |
 | 02/06 | MPI Collectives                                                   | [PCA 5](assignments/pca5.md) |                      |
-| 02/08 | Network Topologies                                                |                              |                      |
+| 02/08 | Network Topologies                                                | [PCA 6](assignments/pca6.md) |                      |
 | 02/13 | No Class                                                          |                              |                      |
 | 02/15 | The Seven Dwarfs                                                  |                              | Project 2 due        |
 | 02/20 | Collective communication 2                                        |                              |                      |
