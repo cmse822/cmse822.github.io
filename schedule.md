@@ -18,7 +18,7 @@ Topic titles link to the slides for each class.
 | 01/25 | Parallel computing theory                                         | [PCA 3](assignments/pca3.md) |                      |
 | 01/30 | [Parallel computing theory](assets/Lecture4.pdf)                  |                              | Project 1 due        |
 | 02/01 | [Intro to MPI](assets/Lecture5.pdf)                               | [PCA 4](assignments/pca4.md) |                      |
-| 02/06 | MPI Collectives                                                   | [PCA 5](assignments/pca5.md) |                      |
+| 02/06 | [MPI Collectives](assets/Lecture6.pdf)                            | [PCA 5](assignments/pca5.md) |                      |
 | 02/08 | Network Topologies                                                | [PCA 6](assignments/pca6.md) |                      |
 | 02/13 | No Class                                                          |                              |                      |
 | 02/15 | The Seven Dwarfs                                                  |                              | Project 2 due        |
