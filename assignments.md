@@ -14,11 +14,10 @@ On this page are the class assignments, including pre-class assignments (PCAs) a
 - [PCA 3](assignments/pca3.md)
 - [PCA 4](assignments/pca4.md)
 - [PCA 5](assignments/pca5.md)
-  
-<!-- 
 - [PCA 6](assignments/pca6.md)
 - [PCA 7](assignments/pca7.md)
-- [PCA 8](assignments/pca8.md)
+
+<!-- - [PCA 8](assignments/pca8.md)
 - [PCA 9](assignments/pca9.md)
 - [PCA 10](assignments/pca10.md)
 - [PCA 11](assignments/pca11.md)
