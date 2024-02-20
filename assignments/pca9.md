@@ -4,10 +4,6 @@
 
 Read Sections 3.6 through 3.14 of [Parallel Programming for Science and Engineering](../assets/EijkhoutParallelProgramming.pdf).
 
-<!-- ## Review
-
-1. In the `#questions` channel of the course Slack, post at least one question about the reading. If someone has already posted your question, you may instead "upvote" that question by reacting to it with a "thumbs up" or other appropriate reaction emoji. 
-
 ## Exercises
 
 Complete the following review questions in Section 3.15 of [PPSE](../assets/EijkhoutParallelProgramming.pdf).
@@ -17,6 +13,10 @@ Complete the following review questions in Section 3.15 of [PPSE](../assets/Eijk
 3. Exercise 3.31
 4. Exercise 3.32
 5. Exercise 3.33
+
+<!-- ## Review
+
+1. In the `#questions` channel of the course Slack, post at least one question about the reading. If someone has already posted your question, you may instead "upvote" that question by reacting to it with a "thumbs up" or other appropriate reaction emoji. 
 
 ## What to turn-in
 
