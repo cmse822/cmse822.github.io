@@ -30,7 +30,7 @@ Repeat Part 1 using non-blocking MPI communication, i.e., using `MPI_Isend()` an
 
 ## Part 4: Non-blocking MPI Ring Shift
 
-Repeat Part 3 but using non-blocking communication via `MPI_Isendrecv()`. Compare the results to the blocking case.
+Repeat Part 3 but using non-blocking communication via `MPI_Isend()` and `MPI_Irecv()`. Compare the results to the blocking case.
 
 ## What to turn-in
 
