@@ -28,8 +28,8 @@ Topic titles link to the slides for each class.
 | 03/01 | **Spring Break**                                                  |                                |                      |
 | 03/05 | Point-to-point; final projects discussion                         |                                |                      |
 | 03/07 | Data types, communicators                                         | [PCA 11](assignments/pca11.md) | Final project topics |
-| 03/12 | Getting started with OpenMP                                       |                                | Project 3 due        |
-| 03/14 | OpenMP, regions, loops                                            |                                |                      |
+| 03/12 | Getting started with OpenMP                                       |                                |                      |
+| 03/14 | OpenMP, regions, loops                                            |                                | Project 3 due        |
 | 03/19 | Hybrid parallelism                                                |                                |                      |
 | 03/21 | Work day                                                          |                                | Project 4 due        |
 | 03/26 | Worksharing, thread data, reductions                              |                                |                      |
