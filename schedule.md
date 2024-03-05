@@ -26,18 +26,18 @@ Topic titles link to the slides for each class.
 | 02/22 | Point-to-point communication                                      | [PCA 10](assignments/pca10.md) |                      |
 | 02/27 | **Spring Break**                                                  |                                |                      |
 | 03/01 | **Spring Break**                                                  |                                |                      |
-| 03/06 | Point-to-point; final projects discussion                         |                                |                      |
-| 03/08 | Data types, communicators                                         | [PCA 11](assignments/pca11.md) | Final project topics |
-| 03/13 | Getting started with OpenMP                                       |                                | Project 3 due        |
-| 03/15 | OpenMP, regions, loops                                            |                                |                      |
-| 03/20 | Hybrid parallelism                                                |                                |                      |
-| 03/22 | Work day                                                          |                                | Project 4 due        |
-| 03/27 | Worksharing, thread data, reductions                              |                                |                      |
-| 03/29 | Synchronization, tasks                                            |                                |                      |
-| 04/03 | One-sided communication                                           |                                | Project 5 due        |
-| 04/05 | I/O, HDF5                                                         |                                |                      |
-| 04/10 | Affinity, memory models, shared memory MPI                        |                                |                      |
-| 04/12 | SIMD, OpenMP review                                               |                                |                      |
-| 04/17 | GPUs                                                              |                                | Project 6 due        |
-| 04/19 | More on GPUs                                                      |                                | Final Project due    |
+| 03/05 | Point-to-point; final projects discussion                         |                                |                      |
+| 03/07 | Data types, communicators                                         | [PCA 11](assignments/pca11.md) | Final project topics |
+| 03/12 | Getting started with OpenMP                                       |                                | Project 3 due        |
+| 03/14 | OpenMP, regions, loops                                            |                                |                      |
+| 03/19 | Hybrid parallelism                                                |                                |                      |
+| 03/21 | Work day                                                          |                                | Project 4 due        |
+| 03/26 | Worksharing, thread data, reductions                              |                                |                      |
+| 03/28 | Synchronization, tasks                                            |                                |                      |
+| 04/02 | One-sided communication                                           |                                | Project 5 due        |
+| 04/03 | I/O, HDF5                                                         |                                |                      |
+| 04/09 | Affinity, memory models, shared memory MPI                        |                                |                      |
+| 04/11 | SIMD, OpenMP review                                               |                                |                      |
+| 04/16 | GPUs                                                              |                                | Project 6 due        |
+| 04/18 | More on GPUs                                                      |                                | Final Project due    |
 | 04/26 | **Final Project Poster Session**                                  |                                | 8 am - 10 am         |
