@@ -19,23 +19,23 @@ Topic titles link to the slides for each class.
 | 01/30 | [Parallel computing theory](assets/Lecture4.pdf)                  |                                | Project 1 due        |
 | 02/01 | [Intro to MPI](assets/Lecture5.pdf)                               | [PCA 4](assignments/pca4.md)   |                      |
 | 02/06 | [MPI Collectives](assets/Lecture6.pdf)                            | [PCA 5](assignments/pca5.md)   |                      |
-| 02/08 | CANCELED                                                          |                                |                      |
+| 02/08 | CANCELLED                                                         |                                |                      |
 | 02/13 | No Class                                                          |                                |                      |
 | 02/15 | [Network Topologies](assets/Lecture7.pdf)                         | [PCA 6](assignments/pca6.md)   |                      |
 | 02/20 | The Seven Dwarfs/Collectives 2                                    | [PCA 7](assignments/pca7.md)   | Project 2 due        |
-| 02/22 | Point-to-point communication                                      | [PCA 10](assignments/pca10.md) |                      |
+| 02/22 | [Point-to-point communication](assets/Lecture8.pdf)               | [PCA 10](assignments/pca10.md) |                      |
 | 02/27 | **Spring Break**                                                  |                                |                      |
 | 03/01 | **Spring Break**                                                  |                                |                      |
-| 03/05 | Point-to-point; final projects discussion                         |                                |                      |
-| 03/07 | Data types, communicators                                         | [PCA 11](assignments/pca11.md) | Final project topics |
+| 03/05 | [Point-to-point](assets/Lecture9.pdf); final projects discussion  |                                |                      |
+| 03/07 | [Data types, communicators](assets/Lecture13.pdf)                 | [PCA 11](assignments/pca11.md) | Final project topics |
 | 03/12 | Getting started with OpenMP                                       |                                |                      |
-| 03/14 | OpenMP, regions, loops                                            |                                | Project 3 due        |
+| 03/14 | OpenMP, regions, loops                                            | [PCA 12](assignments/pca12.md) | Project 3 due        |
 | 03/19 | Hybrid parallelism                                                |                                |                      |
-| 03/21 | Work day                                                          |                                | Project 4 due        |
-| 03/26 | Worksharing, thread data, reductions                              |                                |                      |
+| 03/21 | Work day                                                          |                                |                      |
+| 03/26 | Worksharing, thread data, reductions                              |                                | Project 4 due        |
 | 03/28 | Synchronization, tasks                                            |                                |                      |
-| 04/02 | One-sided communication                                           |                                | Project 5 due        |
-| 04/03 | I/O, HDF5                                                         |                                |                      |
+| 04/02 | One-sided communication                                           |                                |                      |
+| 04/03 | I/O, HDF5                                                         |                                | Project 5 due        |
 | 04/09 | Affinity, memory models, shared memory MPI                        |                                |                      |
 | 04/11 | SIMD, OpenMP review                                               |                                |                      |
 | 04/16 | GPUs                                                              |                                | Project 6 due        |

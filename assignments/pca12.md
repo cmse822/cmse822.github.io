@@ -1,5 +1,12 @@
 # Pre-class Assignment 12
 
+## Video Lecture
+
+Watch the following lectures on OpenMP:
+
+- [OpenMP Introduction](https://www.youtube.com/watch?v=C2N7cHfnjqI&list=PLcbxjEfgjpO9OeDu--H9_XqyxPj3MkjdN&index=16)
+- [OpenMP: Working with threads](https://www.youtube.com/watch?v=wiFk5hHefwE&list=PLcbxjEfgjpO9OeDu--H9_XqyxPj3MkjdN&index=16)
+
 ## Reading
 
 Read Chapters 17 and 18 of [Parallel Programming for Science and Engineering](../assets/EijkhoutParallelProgramming.pdf). Be sure to take not of the example source code at the end of the chapter.
