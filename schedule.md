@@ -30,7 +30,7 @@ Topic titles link to the slides for each class.
 | 03/07 | [Data types, communicators](assets/Lecture13.pdf)                 | [PCA 11](assignments/pca11.md) | Final project topics |
 | 03/12 | Getting started with OpenMP                                       |                                |                      |
 | 03/14 | OpenMP, regions, loops                                            | [PCA 12](assignments/pca12.md) | Project 3 due        |
-| 03/19 | Hybrid parallelism                                                |                                |                      |
+| 03/19 | Hybrid parallelism                                                | [PCA 13](assignments/pca13.md) |                      |
 | 03/21 | Work day                                                          |                                |                      |
 | 03/26 | Worksharing, thread data, reductions                              |                                | Project 4 due        |
 | 03/28 | Synchronization, tasks                                            |                                |                      |

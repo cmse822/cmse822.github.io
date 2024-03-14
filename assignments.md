@@ -19,11 +19,12 @@ On this page are the class assignments, including pre-class assignments (PCAs) a
 - [PCA 10](assignments/pca10.md)
 - [PCA 11](assignments/pca11.md)
 - [PCA 12](assignments/pca12.md)
-  
+- [PCA 13](assignments/pca13.md)
+    
 <!-- - [PCA 8](assignments/pca8.md)
 - [PCA 9](assignments/pca9.md)
 
-- [PCA 13](assignments/pca13.md) -->
+ -->
   
 ## Group Projects
 

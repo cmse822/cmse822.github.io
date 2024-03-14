@@ -1,5 +1,12 @@
 # Pre-class Assignment 13
 
+## Video lectures
+
+Watch the following lectures on OpenMP:
+
+- [Controlling how data is shared](https://www.youtube.com/watch?v=ykHkpBVwbRs&list=PLcbxjEfgjpO9OeDu--H9_XqyxPj3MkjdN&index=18)
+- [Divide and Conquer](https://www.youtube.com/watch?v=IFFuTh-lPno&list=PLcbxjEfgjpO9OeDu--H9_XqyxPj3MkjdN&index=19)
+
 ## Reading
 
 Read Chapters 19 and 20 of [Parallel Programming for Science and Engineering](../assets/EijkhoutParallelProgramming.pdf). 
