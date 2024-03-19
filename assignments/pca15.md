@@ -1,5 +1,12 @@
 # Pre-class Assignment 15
 
+## Video lectures
+
+Watch the following lectures on OpenMP:
+
+- [Worksharing revisited](https://www.youtube.com/watch?v=1vd90NMF_E4&list=PLcbxjEfgjpO9OeDu--H9_XqyxPj3MkjdN&index=20&pp=iAQB)
+- [Memory models](https://www.youtube.com/watch?v=Ggj_CftvFIw&list=PLcbxjEfgjpO9OeDu--H9_XqyxPj3MkjdN&index=21&pp=iAQB)
+
 ## Reading
 
 Read Chapters 20 and 21 of [Parallel Programming for Science and Engineering](../assets/EijkhoutParallelProgramming.pdf). 
