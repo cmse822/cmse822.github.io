@@ -31,13 +31,13 @@ Topic titles link to the slides for each class.
 | 03/12 | [Getting started with OpenMP](assets/Lecture14.pdf)               |                                |                      |
 | 03/14 | [OpenMP, regions, loops](assets/Lecture16.pdf)                    | [PCA 12](assignments/pca12.md) | Project 3 due        |
 | 03/19 | Work day                                                          | [PCA 13](assignments/pca13.md) |                      |
-| 03/21 | Hybrid parallelism                                                | [PCA 15](assignments/pca15.md) |                      |
-| 03/26 | Worksharing, thread data, reductions                              |                                | Project 4 due        |
-| 03/28 | Synchronization, tasks                                            |                                |                      |
+| 03/21 | Hybrid parallelism/GPU architecture                               | [PCA 15](assignments/pca15.md) |                      |
+| 03/26 | GPUs and CUDA                                                     | [PCA 16](assignments/pca16.md) | Project 4 due        |
+| 03/28 | More on GPUs and CUDA                                             |                                |                      |
 | 04/02 | One-sided communication                                           |                                |                      |
-| 04/03 | I/O, HDF5                                                         |                                | Project 5 due        |
+| 04/03 | I/O, HDF5                                                         |                                |                      |
 | 04/09 | Affinity, memory models, shared memory MPI                        |                                |                      |
-| 04/11 | SIMD, OpenMP review                                               |                                |                      |
-| 04/16 | GPUs                                                              |                                | Project 6 due        |
-| 04/18 | More on GPUs                                                      |                                | Final Project due    |
+| 04/11 | SIMD, OpenMP review                                               |                                | Project 5 due        |
+| 04/16 | Worksharing, thread data, reductions                              |                                |                      |
+| 04/18 | Synchronization, tasks                                            |                                | Final Project due    |
 | 04/26 | **Final Project Poster Session**                                  |                                | 8 am - 10 am         |
