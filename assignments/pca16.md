@@ -2,7 +2,7 @@
 
 ## Video lectures 
 
-Watch the two short intro videos on CUDA found [here](https://developer.nvidia.com/how-to-cuda-c-cpp).
+For a good introduction to general GPU architecture, what [this lecture](https://www.youtube.com/watch?v=KeL50ai5P3k&list=PLcbxjEfgjpO9OeDu--H9_XqyxPj3MkjdN&index=22). Then, watch the two short intro videos on CUDA found [here](https://developer.nvidia.com/how-to-cuda-c-cpp).
 
 ## Reading
 
