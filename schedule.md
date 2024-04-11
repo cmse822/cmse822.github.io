@@ -34,10 +34,11 @@ Topic titles link to the slides for each class.
 | 03/21 | Hybrid parallelism/GPU architecture                               | [PCA 15](assignments/pca15.md) |                      |
 | 03/26 | GPUs and CUDA                                                     | [PCA 16](assignments/pca16.md) | Project 4 due        |
 | 03/28 | More on GPUs and CUDA                                             |                                |                      |
-| 04/02 | One-sided communication                                           |                                |                      |
+| 04/02 | SIMD, OpenMP review                                               |                                |                      |
 | 04/03 | I/O, HDF5                                                         |                                |                      |
-| 04/09 | Affinity, memory models, shared memory MPI                        |                                |                      |
-| 04/11 | SIMD, OpenMP review                                               |                                | Project 5 due        |
+| 04/09 | Diffusion on GPUs                                                 |                                |                      |
+| 04/11 | One-sided MPI communication                                       |                                | Project 5 due        |
 | 04/16 | Worksharing, thread data, reductions                              |                                |                      |
-| 04/18 | Synchronization, tasks                                            |                                | Final Project due    |
+| 04/18 | Synchronization, tasks                                            |                                |                      |
+| 04/22 | FIRST DAY OF FINALS WEEK                                          |                                | Final Projects due!  |
 | 04/26 | **Final Project Poster Session**                                  |                                | 8 am - 10 am         |
