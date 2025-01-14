@@ -3,42 +3,41 @@ layout: default
 title: Course Schedule
 ---
 
-# Course Schedule
+## Course Schedule
 
-The class will follow this _tentative_ schedule. Updates will be posted here and on the class [Slack](http://cmse-822.slack.com)!
+The class will follow this _tentative_ schedule. Updates will be posted here and on the class [GitHub](http://github.com/cmse822)!
 Topic titles link to the slides for each class.
 
-| Date  | Topic                                                             | Pre-class                      | Notes                |
-| ----- | ----------------------------------------------------------------- | ------------------------------ | -------------------- |
-| 01/09 | [Introduction to the course](assets/Lecture0.pdf)                 |                                |                      |
-| 01/11 | [GitHub/Single-processor computing](assets/Lecture1.pdf)          | [PCA 1](assignments/pca1.md)   |                      |
-| 01/16 | [HPCC Tutorial](assets/20240116-Introduction_to_the_MSU_HPCC.pdf) |                                |                      |
-| 01/18 | [Single-processor computing](assets/Lecture2.pdf)                 | [PCA 2](assignments/pca2.md)   |                      |
-| 01/23 | [Single-processor review](assets/Lecture3.pdf)                    |                                |                      |
-| 01/25 | Parallel computing theory                                         | [PCA 3](assignments/pca3.md)   |                      |
-| 01/30 | [Parallel computing theory](assets/Lecture4.pdf)                  |                                | Project 1 due        |
-| 02/01 | [Intro to MPI](assets/Lecture5.pdf)                               | [PCA 4](assignments/pca4.md)   |                      |
-| 02/06 | [MPI Collectives](assets/Lecture6.pdf)                            | [PCA 5](assignments/pca5.md)   |                      |
-| 02/08 | CANCELLED                                                         |                                |                      |
-| 02/13 | No Class                                                          |                                |                      |
-| 02/15 | [Network Topologies](assets/Lecture7.pdf)                         | [PCA 6](assignments/pca6.md)   |                      |
-| 02/20 | The Seven Dwarfs/Collectives 2                                    | [PCA 7](assignments/pca7.md)   | Project 2 due        |
-| 02/22 | [Point-to-point communication](assets/Lecture8.pdf)               | [PCA 10](assignments/pca10.md) |                      |
-| 02/27 | **Spring Break**                                                  |                                |                      |
-| 03/01 | **Spring Break**                                                  |                                |                      |
-| 03/05 | [Point-to-point](assets/Lecture9.pdf); final projects discussion  |                                |                      |
-| 03/07 | [Data types, communicators](assets/Lecture13.pdf)                 | [PCA 11](assignments/pca11.md) | Final project topics |
-| 03/12 | [Getting started with OpenMP](assets/Lecture14.pdf)               |                                |                      |
-| 03/14 | [OpenMP, regions, loops](assets/Lecture16.pdf)                    | [PCA 12](assignments/pca12.md) | Project 3 due        |
-| 03/19 | Work day                                                          | [PCA 13](assignments/pca13.md) |                      |
-| 03/21 | Hybrid parallelism/GPU architecture                               | [PCA 15](assignments/pca15.md) |                      |
-| 03/26 | GPUs and CUDA                                                     | [PCA 16](assignments/pca16.md) | Project 4 due        |
-| 03/28 | More on GPUs and CUDA                                             |                                |                      |
-| 04/02 | SIMD, OpenMP review                                               |                                |                      |
-| 04/03 | I/O, HDF5                                                         |                                |                      |
-| 04/09 | Diffusion on GPUs                                                 |                                |                      |
-| 04/11 | One-sided MPI communication                                       |                                | Project 5 due        |
-| 04/16 | Worksharing, thread data, reductions                              |                                |                      |
-| 04/18 | Synchronization, tasks                                            |                                |                      |
-| 04/22 | FIRST DAY OF FINALS WEEK                                          |                                | Final Projects due!  |
-| 04/26 | **Final Project Poster Session**                                  |                                | 8 am - 10 am         |
+| Date                  | Topic        | In-class                           | Notes                             |
+| --------------------- | ------------ | ---------------------------------- | --------------------------------- |
+| Tuesday, January 14   | Course Intro | Form groups                        | Classes Begin January 13          |
+| Thursday, January 16  |              | ICER HPCC Tutorial                 | Project 1 assigned                |
+| Tuesday, January 21   |              | Project 1 work                     |                                   |
+| Thursday, January 23  |              | Discussion Q's                     | HW1 Due                           |
+| Tuesday, January 28   |              | Project 1 presentations            | Project 1 DUE                     |
+| Thursday, January 30  |              | Project 1 presentations            |                                   |
+| Tuesday, February 4   |              | Project work                       |                                   |
+| Thursday, February 6  |              | Discussion questions               | HW2 Due                           |
+| Tuesday, February 11  |              | Project 2 presentations            | Project 2 DUE                     |
+| Thursday, February 13 |              | N/A                                | Classes Not Held; University Open |
+| Tuesday, February 18  |              | Project work                       |                                   |
+| Thursday, February 20 |              | Discussion Q's                     | HW3 Due                           |
+| Tuesday, February 25  |              | Project 3 presentations            | Project 3 DUE                     |
+| Thursday, February 27 |              | Project 3 presentations            |                                   |
+| Tuesday, March 4      |              | NO CLASS                           | Spring Break (March 2–9)          |
+| Thursday, March 6     |              | NO CLASS                           | Spring Break (March 2–9)          |
+| Tuesday, March 11     |              | Project work                       | Project abstract due              |
+| Thursday, March 13    |              | Discussion Q's                     | HW 4                              |
+| Tuesday, March 18     |              | Project 4 presentations            | Project 4 DUE                     |
+| Thursday, March 20    |              | Project 4 presentations            |                                   |
+| Tuesday, March 25     |              | Project work                       |                                   |
+| Thursday, March 27    |              | Discussion Q's                     | HW 5 Due                          |
+| Tuesday, April 1      |              | Project 5 presentations            | Project 5 DUE                     |
+| Thursday, April 3     |              | Project 5 presentations            |                                   |
+| Tuesday, April 8      |              | Project work                       |                                   |
+| Thursday, April 10    |              | Discussion Q's                     | HW 6 Due                          |
+| Tuesday, April 15     |              | Project 6 presentations            | Project 6 DUE                     |
+| Thursday, April 17    |              | Project 6 presentations            |                                   |
+| Tuesday, April 22     |              | Advanced stuff? Final project work |                                   |
+| Thursday, April 24    |              | Guest lectures?                    |                                   |
+| Thursday, May 1       |              | Poster Presentations               | 8-10 am, CMSE Conference Room     |

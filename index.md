@@ -1,8 +1,8 @@
 # Syllabus - CMSE/CSE 822
 
-## Spring 2024, Michigan State University
+## Spring 2025, Michigan State University
 
-This graduate-level course covers the practical and theoretical aspects of  high-performance parallel computing in science and engineering.
+This graduate-level course covers the practical and theoretical aspects of  high-performance parallel computing in science and engineering. 
 
 ### Course Goals
 
@@ -10,10 +10,10 @@ At the conclusion of this course, you should be able to
 
 - Benchmark and profile the performance of serial and parallel applications
 - Develop and optimize applications using:
-  - shared-memory threading parallelism
   - distributed-memory message passing
+  - shared-memory threading parallelism
   - hybrid parallelism 
-  - and GPU hardware
+  - accelerators (e.g., GPUs)
 - Make effective use of high-performance parallel computing architectures
 - Understand the current state of high-performance parallel computing
 
@@ -28,71 +28,62 @@ Office: 3260 BPS
 Office hours: _by appointment_  
 Zoom: [msu.zoom.us/my/scouch](http://msu.zoom.us/my/scouch)  
 [scouch@msu.edu](mailto:scouch@msu.edu)  
-[www.pa.msu.edu/~couch](http://www.pa.msu.edu/~couch)
 
 **Teaching Assistant/Grader:**  
-Vicente Amado   
-Office hours: Tuesday, 1-3 pm, 2504 EGR  
-[amadovic@msu.edu](mailto:amadovic@msu.edu)
+Ian Freeman  
+Office hours: Tuesday, 9:45 am to 10:20 am; Thursdays, after class  
+[freem386@msu.edu](mailto:freem386@msu.edu)
 
 ### Class meetings and office hours
 
 The class meets Tuesdays and Thursdays from 10:20 am to 11:40 am Eastern in EGR 2400. 
 Class meetings are meant to be highly interactive and you are expected to attend if possible.
-
-### Communication and Slack
-
-The primary means of communication for this course will be [Slack](http://slack.com).
-There is a workspace specifically for this course at [cmse-822.slack.com](http://cmse-822.slack.com).
-You may use your `@msu.edu` email address to join this Slack workspace.
-Please join this Slack workspace and participate in discussions.
-Discussion of course subject material is encouraged.
-You may also send direct messages via Slack to the instructors or any other member of the workspace.
-For group work, there will be dedicated channels for each group.
-You are also expected to check your `@msu.edu` email account as communication about the course may come there, as well.
+In the event you are unable to attend in person, you may join class via Zoom at [this link](https://msu.zoom.us/j/98767718147).
 
 ### Text book and references
 
-The two primary textbooks for this course are [High Performance Scientific Computing](assets/EijkhoutIntroToHPC2020.pdf) and [Parallel Programming in Science and Engineering](assets/EijkhoutParallelProgramming.pdf), both by Victor Eijkhout.
-Both of these texts are open-source and freely-available from the author.
+The course website, cmse822.github.io, will be the primary source for course information throughout the semester.
+The two primary textbooks for this course are [High Performance Scientific Computing](EijkhoutIntroToHPC2020.pdf) and [Parallel Programming in Science and Engineering](EijkhoutParallelProgramming.pdf), both by Victor Eijkhout.
+Both of these texts are open-source and freely-available from the author, see [this repo](https://theartofhpc.com).
 Supplementary reading and reference material is available on the course webpage under [Resources](resources.md).
 
 ### Required technologies and software 
 
-- Slack
 - a GitHub account
-- a MSU HPCC account
+- a MSU HPCC account (if you don't already have one, we will request one for you.)
 
-### Use of HPCC
+#### Group Projects and Homework
 
-The course assignments and projects will utilize the MSU campus High Performance Computing Center (HPCC). All students must have an account on the HPCC. If you don't already have one, one will be made for you at the start of this course.
+The coursework for this class is designed to provide you with hands-on experience in high-performance parallel computing through a combination of group projects and associated homework assignments. 
 
-### Pre-class Assignments
+There will be 6 group projects throughout the semester, each accompanied by a homework assignment. Both the projects and homework are to be completed collaboratively within your assigned groups. 
 
-For almost every class meeting, there will be an associated pre-class assignment that you should complete before attending. The pre-class assignments will serve as the basis for in-class discussion and so it is important that you complete them.
+**Homework Assignments:**
 
-The assignments will often consist of writing and running code. As such, all assignments will be handed out and turned in via Git repositories on the course's [GitHub Classroom](https://github.com/cmse822f20). The Git history of your assignments should demonstrate the originality of your work.
-You will also be graded on the _quality_ of your code.
-Please read and refer to the course [coding standards](coding.md) for clear guidelines on writing readable, maintainable code.
+- **Reading:** Each homework will include reading assignments from the primary textbooks or supplementary materials. These readings are essential for understanding the theoretical concepts that will be applied in the projects.
+- **Lecture Videos:** You will be required to watch lecture videos that provide additional context and explanations for the topics covered in the readings and projects.
+- **Exercises:** The homework will also include exercises that may require coding. These exercises are designed to reinforce the concepts learned in the readings and lectures and to prepare you for the group projects. You will be expected to occasionally present you exercise solutions in class.
+
+**Group Projects:**
+
+- The group projects will involve developing and testing parallel code. These projects are intended to enhance your practical skills in high-performance computing and to foster collaboration among group members.
+- You will use GitHub to manage your collaborative code development. Each group will submit a single project report and code repository, with the git history reflecting contributions from all group members.
+- The projects will be graded based on the functionality, efficiency, and quality of the code, as well as the clarity and completeness of the project report.
+
+Each group will briefly present the results of their projects to the class.
 
 No rule of scholarly activity is more important than giving proper credit to the contributions of others. Although you are free to consult with classmates while working on assignments, you must explicitly acknowledge them by name and indicate their contributions in the final write-up.
 
-Many of the assignments will require writing code and routines parts of which may be easily found in publicly-available numerical libraries.
+**Use of AI Assistants:**
+Many of the assignments will require writing code and routines parts of which may be easily found in publicly-available numerical libraries or just as easily generated with AI chat bots (i.e., ChatGPT, Claude, etc.).
 Unless explicitly stated, you should assume that all code required in the assignments must be original.
-I.e., do not simply use off-the-shelf code.
+I.e., do not simply use off-the-shelf code or have an AI write it for you.
 The point of the assignments is to give _you_ practice in writing scientific software.
-
-### Group Projects
-
-Over the course of the semester, you will complete 6 group projects. Collaboration is a key element of science and, as such, these projects are intended to develop both your knowledge of parallel computing and your collaborative skills. These projects will consist primarily of developing and testing parallel code. You will be expected to use GitHub to manage your collaborative code development. Each group will submit one single project report and code repository. The git history of these projects should reflect contributions from each group member. Each of the six projects is worth 10% of your final grade. 
+That said, I actually _encourage_ you to utilize AI chat bots for planning, researching, and debugging your codes! 
 
 #### Group Participation
 
 You will be graded on your participation in the group. To facilitate this, you will complete an assessment of each of your group members contributions to each of the group projects. These assessments will be confidential and used solely by the instructor to ensure that appropriate and equitable participation in group work is maintained throughout the course. Your group participation grade will count for 10% of your final grade.
-
-#### Project Peer Review
-
-For each of the six group projects, you will complete a peer review of another group's project. Your reviews will be based on a rubric provided by the instructor. These reviews are meant to provide both you and your peers with substantive, constructive feedback on your work. As such, you will be expected to provide quality, constructive feedback. The instructors will review all peer review reports to ensure appropriateness and the collated peer review feedback will be passed back to the respective groups anonymously. You will be graded on the quality and timeliness of your peer reviews. This will account for 10% of your final grade.
 
 ### Final Project
 
@@ -118,12 +109,12 @@ For those of you requiring it, your subject exam score will be your final course
 
 The weights for the course grade are as follows.
 
-Category      | %
---------------|----
-Group Projects      | 60%
+Category               | %
+-----------------------|----
+Group Projects         | 40%
+Homework               | 25%
 Group Participation    | 10%
-Project Peer Reviews | 10%
-Final Project       | 20%
+Final Project          | 25%
 
 The final course grade will be assigned based on the following scale.
 
@@ -139,16 +130,19 @@ Grade        | Overall %
 
 Your final grade will be no lower than that indicated on the above scale, though it _may_ be higher, depending on overall class performance.
 
-### Outline of topics
+### Topics for the Course
 
 The _tentative_ detailed course schedule is available [here](schedule.md). Updates and details will also be made on that page and communicated via the course Slack channel. The course will cover the following topics.
 
-- Basics of high performance computing and architectures
-- Performance modeling
-- Serial and parallel optimization strategies
-- Distributed memory parallelism with MPI 
-- Shared memory parallelism with OpenMPI
-- GPU computing 
+1. **Performance Profiling and Optimization**
+2. **Parallel Computing Theory**
+3. **Message Passing Interface (MPI) Basics**
+4. **Advanced MPI Topics**
+5. **Parallel Algorithms and Computational Patterns**
+6. **GPU Programming**
+7. **Hybrid Computing**
+8. **Load Balancing and Scalability**
+9. **Validation and Testing**
 
 ### Spartan Code of Honor Academic Pledge
 
@@ -173,4 +167,3 @@ As members of a learning community, students are expected to respect the intelle
 3. Video and audio recordings made of online lectures may contain inaudible or invisible watermarks to identify shared media: https://support.zoom.us/hc/en-us/articles/360021839031-Audio-Watermark
 4. Students may not post the recordings or other course materials online or distribute them to anyone not enrolled in the class without the advance written permission of the course instructor and, if applicable, any students whose voice or image is included in the recordings.
 5. Any student violating the conditions described above may face academic disciplinary sanctions.
-
